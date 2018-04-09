@@ -1,2 +1,2 @@
-[Home](index.md)
-[Formatting help](README.md)
+- [Home](index.md)
+- [Formatting help](README.md)
