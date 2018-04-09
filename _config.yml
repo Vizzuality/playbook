@@ -1,4 +1,4 @@
-theme: jekyll-theme-dinky
+remote_theme: poole/hyde
 title: Vizzuality Ethos
 description: The "Vizzuality Ethos" is the methodology of how we undertake our projects.
 show_downloads: true
