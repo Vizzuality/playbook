@@ -3,3 +3,5 @@ title: Vizzuality Ethos
 description: The "Vizzuality Ethos" is the methodology of how we undertake our projects.
 show_downloads: true
 google_analytics: [Your Google Analytics tracking ID]
+
+theme: jekyll-theme-minimal
