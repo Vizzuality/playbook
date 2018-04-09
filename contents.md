@@ -15,7 +15,7 @@
 - [Internal and client Communication guidelines](communication-guidelines/index.md)
 - [Retrospective](retrospective/index.md)
 - [Project Follow-up](project-follow-up/index.md)
-- [Project Evaluation](project-evaluation/index.md)
+- [Project Evaluation](/project-evaluation/index.md)
 
 ## Product
 
