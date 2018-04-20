@@ -1,4 +1,4 @@
-# **Project onboarding**
+# **Kick-off Meeting & Project onboarding**
 
 Making a proper project onboarding can be crucial many times; while some can see it as  just a "go" for others it can mean a “sink or swim” moment. In this document we’ll identify key needs and propose a solid structure for a successful project onboarding.
 
