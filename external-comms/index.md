@@ -2,12 +2,6 @@
 
 We love talking about our work and hope you do too. We’ve prepared some advice for you if you want to know when and how to talk about our projects.
 
-Contents
-
-[[TOC]]
-
- 
-
 # Talking to the public. 
 
 ## Who are we and what do we do? 
