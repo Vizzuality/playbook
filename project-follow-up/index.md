@@ -27,9 +27,9 @@ Are there points of contact with other ongoing projects?
 ## Data
 
 Besides the interesting scientific questions related with data there are two
-key questions that we need to ask straight away during discovery and data
+key questions that we need to ask straight away during the discovery and data
 handling phase: Is all the data available?; Is the data in a state that we can
-work with?. If the answer to any of these questions is no, we will need to
+work with?. If the answer to either of these questions is no, we will need to
 bring it up with the client and discuss the timeline with them; these need to
 be made available and be in a good state to start designing.
 
@@ -65,7 +65,7 @@ data):
 - Are we accounting for the different states of the application (e.g.: errors in a form; no data; too much data; very few data; etc.)?
 - Are we innovating? Are we going beyond the standard approaches? Are we keeping a balance?
 
-Some of the points above don’t have straight answers and might require
+Some of the points above don’t have straight forward answers and might require
 allowing more time for the design process, but it is important that they are
 discussed so that the conditions are met for us to deliver a good
 product.
@@ -79,7 +79,7 @@ review all the pages that will be implemented and discuss how to split them
 into releases. Release planning needs to take into consideration the client’s
 priorities, and the releases might need to be reviewed as the project goes on,
 to make sure that we keep aligned with those priorities. During the release
-planning there might be new questions appearing about the designs, these
+planning there might be new questions appearing about the designs. These
 should not be ignored as the designs are not really set in stone, and if there
 are doubts or ways to improve them we should do it.
 
@@ -94,7 +94,7 @@ doing, and also enable the review of priorities with each new delivery.
 ### Daily Meeting
 
 It’s recommended that the project team holds a daily meeting where they can
-report on what they’ve worked on and will be working on that day. This meeting
+report what they’ve worked on and will be working on that day. This meeting
 can be very valuable as it makes it possible to identify blockers, and
 opportunities to share experience and to organize pairing sessions when
 relevant. Having designers and data scientists on this meeting is also
