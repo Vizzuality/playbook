@@ -2,7 +2,7 @@
 
 ### If you want to propose new guidelines or amend existing ones keep in mind:
 
-- Guideline creation and amendment is done trough Consent (to-do: add a link to consent process here)
+- Guideline creation and amendment is done through Consent (to-do: add a link to consent process here)
 - Seek advice (to-do: link to advice process here) before creating or amending guidelines. Guidelines are the result of a teamwork and as such, team-led guideline creation is encouraged
 - Perform a due diligence to understand context and background around the issue (has this been discussed before, is there a _de facto_ practice already in place, are there conflicting views about the matter?)
 - Even if a guideline has a scope (office, functional team...) the whole team can participate in the consent process.
