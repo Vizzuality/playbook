@@ -1,18 +1,33 @@
 ## Welcome to Vizzuality's Guidelines
 
-### If you want to propose new guidelines or amend existing ones keep in mind:
+### What is a guideline?
 
-- Guideline creation and amendment is done through Consent (to-do: add a link to consent process here)
-- Seek advice (to-do: link to advice process here) before creating or amending guidelines. Guidelines are the result of a teamwork and as such, team-led guideline creation is encouraged
-- Perform a due diligence to understand context and background around the issue (has this been discussed before, is there a _de facto_ practice already in place, are there conflicting views about the matter?)
-- Even if a guideline has a scope (office, functional team...) the whole team can participate in the consent process.
-- The person/s who propose the guideline creation/edition are responsible for moving the process forward.
+A guideline is a written statement that helps make autonomous decisions.
+
+### Where can I find guidelines?
+
+All guidelines are stored in this repository. You can find them either by using keyword search or navigating the categories.
+
+### What if I cannot find a guideline?
+
+You need to follow the *advice process* to arrive at a decision. Anyone in the advice process can initiate a process to create a guideline based on the advice.
+
+### What if the guideline exists but I don't want to follow it?
+
+You need to follow the **advice process** to arrive at a decision. Anyone in the advice process can initiate a process to amend the guideline based on the advice.
+
+### How are guidelines created / amended?
+
+Guideline creation and amendment is done through **consent process** (to-do: add a link to consent process here), as a result of the advice process. The person/s who propose the guideline creation / amendment are responsible for moving the process forward. Team-led guideline creation is encouraged. Even if a guideline has a scope (company, office, functional team, project team) the whole team can participate in the consent process.
+
+### How to write a good guideline?
+
+- For new guidelines, make sure the guideline you are adding doesn't already exist.
+- For existing ones, make sure you review the history of changes to see if the issue you propose to amend has already been discussed before.
+- Perform due diligence to understand context and background around the issue (has this been discussed before, is there a *de facto* practice already in place, are there conflicting views about the matter?)
 - Whenever possible try to keep the current high-level structure. Create new sections or subsections only when necessary.
 - Keep things as simple as possible, only write new guidelines when they are needed.
 - Write in clear, specific and actionable terms. Guidelines are decision helpers, not judgments or theoretical statements.
-- For new guidelines, make sure the guideline you are adding doesn't already exist.
-- For existing ones, make sure you review the history of changes to see if the issue you propose to amend has already been discussed before.
-
 
 ### To create or amend a guideline you can start a [Pull Request](https://help.github.com/articles/using-pull-requests). Keep in mind:
 
