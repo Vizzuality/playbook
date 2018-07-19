@@ -10,7 +10,7 @@ All guidelines are stored in this repository. You can find them either by using 
 
 ### What if I cannot find a guideline?
 
-You need to follow the *advice process* to arrive at a decision. Anyone in the advice process can initiate a process to create a guideline based on the advice.
+You need to follow the **advice process** to arrive at a decision. Anyone in the advice process can initiate a process to create a guideline based on the advice.
 
 ### What if the guideline exists but I don't want to follow it?
 
@@ -31,22 +31,25 @@ Guideline creation and amendment is done through **consent process** (to-do: add
 
 ### To create or amend a guideline you can start a [Pull Request](https://help.github.com/articles/using-pull-requests). Keep in mind:
 
-- Start your PR with a short and meaningful title (e.g. "Guideline for hiring process")
-- Explain in a couple paragraphs the motivation for the guideline creation/amendment and the context and background
-- The created/amended text of the guideline should also be added to the PR text for easier reading.
-
-TBD:
-- Add as assignees the team of people who are leading this guideline creation, including yourself (a team can be formed at this step too)
-- Add as reviewers the people you think should be involved by giving advice, or because they are directly affected TBD: should we create teams according to scopes?). Remember, though that anyone can participate
-- Announce the new guideline creation/amendment process on Slack (TBD: where?)
+- Start your PR with a short and meaningful title (e.g. "Guideline for hiring process").
+- Briefly explain the motivation for the guideline creation/amendment and the context and background.
+- The created / amended text of the guideline should also be added to the PR text for easier reading.
+- Add as assignees the people who are leading this guideline creation, including yourself.
+- Add as reviewers the people who should be involved by giving advice, or who are directly affected. Remember, though, that anyone can participate.
+- Announce the new guideline creation / amendment process on #general channel in Slack.
 
 ### When participating in a Guideline discussion process:
 
-- Please follow the Consent process
-- Use the keywords "Agree", "Disagree", "Object" explaining clearly afterward the reasons
-- Use the keyword "Proposed changes" to suggest amendments, corrections or additions
-- Try not to make judgments, base your opinions on facts or rational reasons rather than judgments or emotions
-- Use Non-Violent Communication (to-do: link to NVC guidelines here)
+- Please follow the Consent process. In that process a decision does not require everybody to agree, it only requires that nobody raises a meaningful objection.
+- Use the reactions :+1: "Agree", :confused: "Disagree", :-1: "Object" and explain clearly afterward your reasons.
+- Use the keyword "Proposed changes" to suggest amendments, corrections or additions.
+- If you want to propose a bigger change, edit the file directly and include a link to the diff in the comment box. You can also paste the new wording in the comment box.
+- Try not to make judgments, base your opinions on facts or rational reasons rather than judgments or emotions.
+- Use Non-Violent Communication (to-do: link to NVC guidelines here).
+
+### Using GitHub Pages
+
+This is where you can access the content of this repository as a web page: https://vizzuality.github.io/playbook/
 
 You can use the [editor on GitHub](https://github.com/Vizzuality/playbook/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
