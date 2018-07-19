@@ -10,7 +10,7 @@ Because of the different locations and the flexibility in our working hours we h
 
 It's a good practice to use the active/away status on Slack to let others know when you are working. It's also a good practice to check in & out on the general channel to let people know when you start and finish your day (also nice to say Hello and Goodbye to peers).
 
-If you work regularly the same hours everyday, enable working hours in the Google Calendar to let people know what times you're working and when you're available for meetings. This will warn people if they try to invite you to a meeting outside of these hours.
+If you work regularly the same hours everyday, enable working hours in the Google Calendar under `Settings > General > Working hours` to let people know what times you're working and when you're available for meetings. This will warn people if they try to invite you to a meeting outside of these hours.
 
 ![image](https://user-images.githubusercontent.com/1506306/42953405-ad360e50-8b7a-11e8-8eb2-c9cea58c1dc3.png)
 
@@ -20,15 +20,17 @@ If you are going to be working but mostly unavailable because you are traveling,
 
 ![image](https://user-images.githubusercontent.com/1506306/42953576-0b67b758-8b7b-11e8-9a01-0eb37edfbb48.png)
 
-If you will be sporadically remote it's a good idea to let your closer team know in advance, in case there was anything planned that requires your presence.
-
 ### For sporadic remote work
 
+If you will be sporadically remote it's a good idea to let your closer team know in advance, in case there was anything planned that requires your presence.
+
 When you are working remote please update your Slack status (using the house icon or a foreign flag based on the country you're in):
+
 
 **When at home:**
 
 ![image](https://user-images.githubusercontent.com/1506306/42953640-319fae58-8b7b-11e8-8759-f52e83199d3a.png)
+
 
 **When traveling:**
 
