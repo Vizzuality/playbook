@@ -12,7 +12,13 @@ It's a good practice to use the active/away status on Slack to let others know w
 
 If you work regularly the same hours everyday, enable working hours in the Google Calendar to let people know what times you're working and when you're available for meetings. This will warn people if they try to invite you to a meeting outside of these hours.
 
+![image](https://user-images.githubusercontent.com/1506306/42953405-ad360e50-8b7a-11e8-8eb2-c9cea58c1dc3.png)
+
 If you are going to be working but mostly unavailable because you are traveling, in a client sprint or in a conference, please use the "unavailable" option in Bamboo to set those dates in advance. The process is the same as with time off requests.
+
+![image](https://user-images.githubusercontent.com/1506306/42953516-eca834dc-8b7a-11e8-9d2d-1e897298be9c.png)
+
+![image](https://user-images.githubusercontent.com/1506306/42953576-0b67b758-8b7b-11e8-9a01-0eb37edfbb48.png)
 
 If you will be sporadically remote it's a good idea to let your closer team know in advance, in case there was anything planned that requires your presence.
 
@@ -22,11 +28,10 @@ When you are working remote please update your Slack status (using the house ico
 
 **When at home:**
 
-<img src="images/remote_screenshot_1.png" width="450">
+![image](https://user-images.githubusercontent.com/1506306/42953640-319fae58-8b7b-11e8-8759-f52e83199d3a.png)
 
 **When traveling:**
 
-<img src="images/remote_screenshot_2.png" width="450">
-
+![image](https://user-images.githubusercontent.com/1506306/42953718-52dd094e-8b7b-11e8-9ee8-dd66c20dfe26.png)
 
 If you are abroad, update your Time Zone in `Profile & account > Edit Profile > Time Zone` so other people know which is your current time. Alternatively, you can just click on your name on any of your messages and click on _Edit your profile_.
