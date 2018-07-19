@@ -34,6 +34,6 @@ When you are working remote please update your Slack status (using the house ico
 
 **When traveling:**
 
-![image](https://user-images.githubusercontent.com/1506306/42953718-52dd094e-8b7b-11e8-9ee8-dd66c20dfe26.png)
+![image](https://user-images.githubusercontent.com/1506306/42955848-b6424654-8b7e-11e8-9e7e-e8db62da04df.png)
 
 If you are abroad, update your Time Zone in `Profile & account > Edit Profile > Time Zone` so other people know which is your current time. Alternatively, you can just click on your name on any of your messages and click on _Edit your profile_.
