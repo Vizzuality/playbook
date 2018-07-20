@@ -16,6 +16,10 @@ You need to follow the **advice process** to arrive at a decision. Anyone in the
 
 You need to follow the **advice process** to arrive at a decision. Anyone in the advice process can initiate a process to amend the guideline based on the advice.
 
+### When not to create guidelines?
+
+It's important to reflect on your motivation for proposing a new guideline. The goal with guidance is to have only that which is necessary to make the company run smoothly and well. It should not be in reaction to bad behaviour or one-off situation. Assess whether feedback or conflict resolution might be a more appropriate means of dealing with it.
+
 ### How are guidelines created / amended?
 
 Guideline creation and amendment is done through **consent process** (to-do: add a link to consent process here), as a result of the advice process. The person/s who propose the guideline creation / amendment are responsible for moving the process forward. Team-led guideline creation is encouraged. Even if a guideline has a scope (company, office, functional team, project team) the whole team can participate in the consent process.
