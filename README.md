@@ -39,7 +39,7 @@ Guideline creation and amendment is done through **consent process** (to-do: add
 - Briefly explain the motivation for the guideline creation/amendment and the context and background.
 - The created / amended text of the guideline should also be added to the PR text for easier reading.
 - Add as assignees the people who are leading this guideline creation, including yourself.
-- Add as reviewers the people who should be involved by giving advice, or who are directly affected. Remember, though, that anyone can participate.
+- Add as reviewers the people who should be involved by giving advice, or who are directly affected. Remember that anyone can participate.
 - Announce the new guideline creation / amendment process on #general channel in Slack.
 - Allow up to 3 days for comments.
 - Announce the outcome on #general channel in Slack.
@@ -50,7 +50,7 @@ Guideline creation and amendment is done through **consent process** (to-do: add
 - Use the reactions :+1: "Agree", :confused: "Disagree", :-1: "Object" and explain clearly afterward your reasons.
 - Use the keyword "Proposed changes" to suggest amendments, corrections or additions.
 - If you want to propose a bigger change, edit the file directly and include a link to the diff in the comment box. You can also paste the new wording in the comment box.
-- Try not to make judgments, base your opinions on facts or rational reasons rather than judgments or emotions.
+- Try not to make judgments. Base your opinions on facts or rational reasons rather than judgments or emotions.
 - Use Non-Violent Communication (to-do: link to NVC guidelines here).
 - Provide your comments in a timely manner, normally up to 3 days.
 
