@@ -12,9 +12,9 @@ All guidelines are stored in this repository. You can find them either by using 
 
 You need to follow the **advice process** to arrive at a decision. Anyone in the advice process can initiate a consent process to create a guideline based on the advice.
 
-### What if the guideline exists but I don't want to follow it?
+### What if the guideline exists but it is not sufficient?
 
-You need to follow the **advice process** to arrive at a decision. Anyone in the advice process can initiate a consent process to amend the guideline based on the advice.
+Sometimes you may discover that an existing guideline does not cover your specific case, is out of sync with current best practice or contradicts other guidelines. In such case you don't have to follow it, but you need to follow the **advice process** to arrive at a decision. Anyone in the advice process can initiate a consent process to amend the guideline.
 
 ### When not to create guidelines?
 
