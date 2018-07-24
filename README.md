@@ -50,6 +50,7 @@ Guideline creation and amendment is done through **consent process** (to-do: add
 - Use the reactions :+1: "Agree", :confused: "Disagree", :-1: "Object" and explain clearly afterward your reasons.
 - Use the keyword "Proposed changes" to suggest amendments, corrections or additions.
 - If you want to propose a bigger change, edit the file directly and include a link to the diff in the comment box. You can also paste the new wording in the comment box.
+- If you were assigned as a [reviewer of a pull request](https://help.github.com/articles/about-pull-request-reviews/), you have additional tools available to comment on particular sections of the text, approve or request changes. 
 - Try not to make judgments. Base your opinions on facts or rational reasons rather than judgments or emotions.
 - Use Non-Violent Communication (to-do: link to NVC guidelines here).
 - Provide your comments in a timely manner, normally up to 3 days.
