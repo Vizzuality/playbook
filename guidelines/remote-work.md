@@ -1,6 +1,6 @@
 # Company Wide Remote Guidelines
 
-Vizzuality is remote friendly, staff can work remotely from a different city or work from the Madrid, Cambridge or Porto office but sporadically spend mornings/afternoons/days remote. 
+Vizzuality is remote friendly, staff can work remotely from a different city or work from the Madrid, Cambridge or Porto office but sporadically spend mornings/afternoons/days remote.
 
 Employees who are fully remote will normally be required to spend some initial time (between 3 and 6 months) in one of the offices to get to know the team.
 
@@ -14,17 +14,16 @@ If you work regularly the same hours everyday, enable working hours in the Googl
 
 ![image](https://user-images.githubusercontent.com/1506306/42953405-ad360e50-8b7a-11e8-8eb2-c9cea58c1dc3.png)
 
-If you are going to be working but mostly unavailable because you are traveling, in a client sprint or in a conference, please use the "unavailable" option in Bamboo to set those dates in advance. The process is the same as with time off requests.
+Some teams use additional practices to improve communication in general and bring the remote and non-remote staff together:
 
-![image](https://user-images.githubusercontent.com/1506306/42953516-eca834dc-8b7a-11e8-9d2d-1e897298be9c.png)
-
-![image](https://user-images.githubusercontent.com/1506306/42953576-0b67b758-8b7b-11e8-9a01-0eb37edfbb48.png)
+- daily "slack standup" - at the start of your day, describe what you did the day before and what you're planning to achieve today
+- weekly calls - the format may differ
 
 ### For sporadic remote work
 
 If you will be sporadically remote it's a good idea to let your closer team know in advance, in case there was anything planned that requires your presence.
 
-When you are working remote please update your Slack status (using the house icon or a foreign flag based on the country you're in):
+When you are working remote you can also update your Slack status (using the house icon or a foreign flag based on the country you're in):
 
 
 **When at home:**
