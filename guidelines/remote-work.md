@@ -25,14 +25,7 @@ If you will be sporadically remote it's a good idea to let your closer team know
 
 When you are working remote you can also update your Slack status (using the house icon or a foreign flag based on the country you're in):
 
-
-**When at home:**
-
-![image](https://user-images.githubusercontent.com/1506306/42953640-319fae58-8b7b-11e8-8759-f52e83199d3a.png)
-
-
-**When traveling:**
-
-![image](https://user-images.githubusercontent.com/1506306/42955848-b6424654-8b7e-11e8-9e7e-e8db62da04df.png)
+![image](https://user-images.githubusercontent.com/1506306/43206864-f49e6138-9026-11e8-9e12-3e2da157000c.png)
+![image](https://user-images.githubusercontent.com/1506306/43206930-1ec081f8-9027-11e8-9eea-ddbf08732ace.png)
 
 If you are abroad, update your Time Zone in `Profile & account > Edit Profile > Time Zone` so other people know which is your current time. Alternatively, you can just click on your name on any of your messages and click on _Edit your profile_.
