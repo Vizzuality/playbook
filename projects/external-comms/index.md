@@ -54,7 +54,7 @@ We love talking about what we do and we hope you do too. As soon as a client sta
 
 **Twitter:** Follow us @Vizzuality and tag us when you talk about our work.
 
-**Facebook: **Like our [page](https://www.facebook.com/vizzuality/) and share our posts with your friends.
+**Facebook:** Like our [page](https://www.facebook.com/vizzuality/) and share our posts with your friends.
 
 **LinkedIn:** Follow our company page on [LinkedIn](https://www.linkedin.com/company/434611/) and list the projects you work on in your profile. Add a link to the relevant Vizzuality [project page](http://vizzuality.com/) and add a short description about your role.  
 
