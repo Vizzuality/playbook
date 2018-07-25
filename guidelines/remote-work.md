@@ -12,7 +12,7 @@ It's a good practice to use the active/away status on Slack to let others know w
 
 If you work regularly the same hours everyday, enable working hours in the Google Calendar under `Settings > General > Working hours` to let people know what times you're working and when you're available for meetings. This will warn people if they try to invite you to a meeting outside of these hours.
 
-![image](https://user-images.githubusercontent.com/1506306/42953405-ad360e50-8b7a-11e8-8eb2-c9cea58c1dc3.png)
+![image](https://user-images.githubusercontent.com/1506306/43207106-8a661be8-9027-11e8-9149-8fcaec201afb.png)
 
 Some teams use additional practices to improve communication in general and bring the remote and non-remote staff together:
 
