@@ -3,10 +3,15 @@ The phases of our projects are described in
 [another document](https://docs.google.com/document/d/1MGC8xPRhHqr7SbqFHh2k0Bmqo_4eyT2M3WzD8AjCBVg/edit),
 here we will talk about how to follow up on the different phases.
 
+
 ## Kick Off
 
-Check that everyone has done the tasks assigned in the kick-off, and that any
-produced documents are made available to everyone.
+Once a new project comes in, there are a number things that should happen straight away
+- Create a project folder in dropbox and google drive + Slack channel. Invite core team to join it
+- Open a new entry on the intranet explaining the project and linking to key docs
+- setup a lightning talk to introduce the project to the whole team
+
+Check that everyone has done the tasks assigned in the kick-off, and that any produced documents are made available to everyone.
 
 ## Discovery
 
