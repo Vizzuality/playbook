@@ -19,3 +19,9 @@ If you are going to be working but mostly unavailable because you are travelling
 Record time-off using the "holiday" project and create projects for events you're taking part in. This is visible in the timeline in the same way as your project assignments.
 
 ![image](https://user-images.githubusercontent.com/134055/43245679-11a73f22-90a7-11e8-9e56-5ef4e99d13ac.png)
+
+## Google Calendar Out of Office
+
+You can mark yourself as Out of Office using Google Calendar. This means, whenever anyone is booking a meeting, they can automatically see that you are away. And when a client books a meeting with you, they will get an automatic reply telling them you are on vacation. 
+
+You can set this up by choosing the "out of office" option when creating a new event. Select the start/ end dates and write a decline message explaining when you will be back. 
