@@ -10,5 +10,4 @@ The “Vizzuality Guidelines" include the information and agreed practices that 
 - [ ] [Feedback Loops](feedback-loops/index.md)
 - [ ] [Conflict Resolution](conflict-resolution/index.md)
 - [x] [Project Development](projects/index.md)
-
-
+- [x] [Operational Guidelines](README.md)
