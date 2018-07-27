@@ -33,7 +33,21 @@ Guideline creation and amendment is done through **consent process** (to-do: add
 - Keep things as simple as possible, only write new guidelines when they are needed.
 - Write in clear, specific and actionable terms. Guidelines are decision helpers, not judgments or theoretical statements.
 
-### To create or amend a guideline you can start a [Pull Request](https://help.github.com/articles/using-pull-requests). Keep in mind:
+### How to share suggested changes with others?
+
+Since we're using GitHub as a guideline repository, the natural way of suggesting changes is via the mechanism of [Pull Requests](https://help.github.com/articles/using-pull-requests)
+
+#### How to start a pull request
+
+The starting point is to have your content saved in a branch of the repository (please do not commit directly into master, unless maybe you see a typo). There are a few ways technically to do that, broadly speaking:
+- you can clone the repo to your machine, create a branch, make changes and push like you'd do with code
+- you can use GitHub's interface
+
+When using the GitHub interface, first create a new branch by using the "Branch" dropdown, then switch to your branch. You can edit existing files (edit button when viewing a file) or create new ones ("Create new file" button), every time saving your changes by comitting them to your branch. When you're done with the changes, you can use the "Pull request" button on the "Code" tab of your branch. It's also possible to do the same starting from the "Pull requests" tab and selecting your branch.
+
+There is also a shortcut if you only want to edit / create a single file. Start making your changes while on a branch that you want to use as your base. To save the changes on a new branch and start the pull request, in the "Commit changes" section select "Create a new branch for this commit and start a pull request".
+
+#### How to communicate the Guideline discussion to others?
 
 - Start your PR with a short and meaningful title (e.g. "Guideline for hiring process").
 - Briefly explain the motivation for the guideline creation/amendment and the context and background.
