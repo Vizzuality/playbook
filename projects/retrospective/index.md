@@ -1,14 +1,14 @@
-#**Retrospectives.**
+# **Retrospectives.**
 
-#Thinking back to do better
+# Thinking back to do better
 
 This document aims to be a set of guidelines, do’s and don’ts for us to follow and be best aligned in how we run retrospectives. 
 
-##Purpose.
+## Purpose.
 Looking back is always a good way to learn and improve from our experience. 
 The main objective of a retrospective is to improve the way we work together, but below there is a list of more outcomes you can get. 
 
-##Outcome from a Retrospective.
+## Outcome from a Retrospective.
 - Review our processes.
 - Detect areas of improvement.
 - Detect issues in the project to solve them before they go wild. 
@@ -16,14 +16,14 @@ The main objective of a retrospective is to improve the way we work together, bu
 - Align team members. 
 - Identify new opportunities for future phases.
 
-##When should you do a retrospective?
+## When should you do a retrospective?
 We don’t need to reach the end of the project or come to a place where people seem to be detached from the project to run a retrospective. 
 Run a retrospective: 
 - At the end of the project. Wait some days after the release but don’t postpone it too long. A week after the release seems like good timing. 
 - When a milestone has been accomplished. Such as when an ongoing project has had a clear release, or at the end of the quarter / six months...
 - You feel things are not working the best they could while we are working on the project. 
 
-#Process for a Retrospective.
+# Process for a Retrospective.
 There are millions of ways to run a retrospective. Below is a procedure we have tested many times in different situations but you can adapt as needed. 
 Here you have some general ideas you might want to take into account: 
 
@@ -47,7 +47,7 @@ Stress also what worked well during the project. It is also good to reinforce wh
 
 Tell the whole team what happened so we can all learn from the experience
 
-##The classic retrospective... 
+## The classic retrospective... 
 
 1. The introduction
 Present the session. Welcome people, expose the subject and the objectives of the session so they are clear to everybody.  
@@ -69,7 +69,7 @@ Where all the group discuss the ideas and agrees on point to improve or to keep 
 5. Conclusions. 
 After the session, the facilitator and the project manager will summarize all the outcomes of the session and highlight the objectives. Share with the rest of the team. 
 
-#Final Thoughts
+# Final Thoughts
 As we said before, retrospectives can be run in many different ways, here you have some links for inspiration: 
 A more playful schema: http://toolbox.hyperisland.com/check-in-questions
 An idea to mix-up with feedback: http://toolbox.hyperisland.com/feedback-start-stop-continue
