@@ -2,8 +2,7 @@
 
 ### Next Steps / Timeline
 
-- Add a more fleshed out "*When to give feedback*" doc
-- Add a "*Seeking Feedback*" doc
+- Build concrete guidline doc
 - Outline general rules for framing the system (frequency, who-who, how, central axioms)
 - General framework for different interactions
 - Champions/Ambassadors
