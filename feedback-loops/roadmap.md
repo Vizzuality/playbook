@@ -2,6 +2,8 @@
 
 ### Next Steps / Timeline
 
+- Add a more fleshed out "*When to give feedback*" doc
+- Add a "*Seeking Feedback*" doc
 - Outline general rules for framing the system (frequency, who-who, how, central axioms)
 - General framework for different interactions
 - Champions/Ambassadors
@@ -29,4 +31,8 @@ Areas/Contexts that have not been addressed:
 
 4. Feedforward
 
-    How do we set ourselves up in kick-offs so that we work with more efficiency? SHould we have a guideline for documenting the things learned?
+    How do we set ourselves up in kick-offs so that we work with more efficiency? Should we have a guideline for documenting the things learned?
+
+5. Automated Feedback
+
+    Using testing as a means of feedback for devs.
