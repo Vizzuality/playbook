@@ -1,4 +1,4 @@
-# Feedback Loops at Vizzuality
+# Feedback Loops at Vizzuality: Giving Effective Feedback
 
 ## *Overview*
 
@@ -21,7 +21,29 @@ Every day, we should aim to improve ourselves, the company, and offer useful fee
 
 ***
 
-## Before Feedback
+### When to Give Feedback?
+
+The first step is recognising opportunities to give feedback. 
+
+- *During handovers*
+  
+  Handovers between functional groups are likely to surface opportunities for rich feedback. Bridging the gap in understanding between researchers, designers, data-scientists, and devs is core to becoming more productive and efficient so try go give feedback that can aid smooth these transitions.
+
+- *When you see good work being done!*
+  
+  Positive feedback is essential to making sure we keep on doing what we're awesome at.
+
+- *When you recognise an opportunity for improvement*
+  
+  More on this below.
+
+- *At the end of a sprint*
+
+  How could teh sprint have run more smoothly? Feedback between you and your PM could well improve productivity of future sprints.
+
+***
+
+## What to give Feedback about?
 
 Try to choose talking points that are relevant to current work/projects, and ensure that your points aren’t all negative ones!
 
@@ -42,16 +64,6 @@ Feedback is most useful to someone when likelihood of improvement is high. So it
 ```
 
 Try to focus on easier topics and successes that are likely to get the biggest positive returns in a reasonable time frame.
-
-***
-
-### When to Give Feedback?
-
-- During handovers
-- when you see good work!
-- when you recognise an opportunity for improvement of a skill (see above)
-- at the end of a sprint
-- ...
 
 ***
 
@@ -90,26 +102,24 @@ These principles are concerned with how to give feedback effectively:
 
 ***
 
-## Receiving Feedback Effectively
+### When to Give Feedback?
 
-Conversely, these principles are focused on how to act effectively during/after receiving feedback:
+The first step is recognising opportunities to give feedback. 
 
-1. **Clarify**
-   
-   Summarise the plan, do you know where you are now and where you need to be to improve? Do you fully understand what is the downside of the current approach/behavior, its negative impact, and do you agree that it can be improved? If any points seems unresolved, be open to ask about them explicitly, or if appropriate, revise them. Be open to asking for help of other people, who may have dealt with and overcome similar situations in the past.
+- *During handovers*
+  
+  Handovers between functional groups are likely to surface opportunities for rich feedback. Bridging the gap in understanding between researchers, designers, data-scientists, and devs is core to becoming more productive and efficient so try go give feedback that can aid smooth these transitions.
 
-2. **Outlining Next Steps**
-   
-   As soon as possible afterwards, outline the steps you are going to take to act on the feedback given. If you prefer, discuss this during feedback. If there are multiple components, specify each one and how you will achieve each. Identify when and how follow-up will occur and be as specific as possible. Set a time frame for achieving the primary goal and, if appropriate, identify smaller goals along the way. Make some rough notes to help you remember!
+- *When you see good work being done!*
+  
+  Positive feedback is essential to making sure we keep on doing what we're awesome at.
 
-3. **Following Up & Bridging the Gap**
-   
-   On the agreed schedule, meet with the person that gave you feedback and evaluate the progress so far. Check if you were able to meet your goals, and if not, work together on a revised strategy. Review any potential negative side-effects of your strategy, and adapt your plan if needed. If it’s the case, review your next steps and timeline, making sure all of them are clear and achievable.
+- *When you recognise an opportunity for improvement*
+  
+  More on this below.
 
-4. **Self Assessing & Feeding Forward**
-   
-   Review how you improved. After a feedback the feedback process went, how it went, and monitor how follow-up is progressing. The learning process doesn’t finish when the feedback session closes, this principle is basic and has impact on your colleagues and direct reports, and everyone on the team benefits.
+- *At the end of a sprint*
+
+  How could teh sprint have run more smoothly? Feedback between you and your PM could well improve productivity of future sprints.
 
 ***
-
-*See you, space cowboy!*
