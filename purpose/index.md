@@ -1,1 +1,43 @@
-TODO
+#**Purpose.** 
+
+> **Vizzuality's purpose is to reach a fair and sustainable planet by creating tools that radically empower people to make positive changes now.**
+
+This vision was accepted by consent in a whole-company workshop in May 2018. 
+
+# Vision Statements
+
+Vision statements are meant to be a more practical and measurable expression of the Purpose. Within five years, what would we like to achieve? It is intended that these statements help everyone at the company understand what we are aiming for, and also to help them make decisions about where to focus their energies. If you're doing a task and it isn't contributing to the vision, ask yourself how you can alter it so that it's helping us create the company we all want. 
+
+We would like to propose four main visions for what we want to achieve in the next five years. 
+
+1. 100 Million people are using our tools every year to understand the world and act to make it better
+
+2. Our team is a unique assembly of capabilities and skills working together for a flourishing planet.
+
+3. Our team is inspired by the projects we work on and we’re open and generous with our knowledge
+
+4. Thousands of people follow us into a movement creating a more sustainable, equal and enjoyable way of doing business
+
+An initial version of these statements was presented at Vizzcamp 2018, and using the feedback from the sessions and the comments coming out of the consent process we refined these statements. We received no blocking comments, only suggestions. You can see the initial statements, the comments we heard, and how we reflected those in our new visions, [in this document](https://docs.google.com/document/d/1DW-VBXcWSFlFrvqnZUZALL4iT5G7tbxzXXBFUs23Dh4/edit)
+
+## Strategic Priorities
+
+We will present our first group of strategic priorities at the August 2018 All Hands meeting. These will include two main priorities for the next six months. 
+
+**1. Increase the urgency of our work and complete projects more quickly**
+Under this priority we will undertake four main activities
+
+* Creating 6 systems are consentmentized and operational by the EO 2018 built around speed and quality
+* Invest in equipment that allows us to communicate faster between offices and clients
+* Hire and train staff with different skills/ backgrounds who can create new tools, data, research and idea	
+* Build an organistional structure that empowers individual ownership of our work, rewarding positive behaviour and a drive towards our results	
+
+**2. Win the largest, best, most impactful, and most profitable projects**
+Under this priority, we will undertake 3 main activities. 
+
+* We are working on 20 projects in 2019 with an avg sized income of 200k
+* Won more grants to build our research team
+* We have extended our client base into Europe
+
+**This is in order to double of per staff profit, so we're able to invest that new profit in more initiatives that achieve our purpose.**
+
