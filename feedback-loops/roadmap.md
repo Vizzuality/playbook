@@ -2,10 +2,14 @@
 
 ### Next Steps / Timeline
 
-- Build concrete guidline doc
-- Outline general rules for framing the system (frequency, who-who, how, central axioms)
-- General framework for different interactions
-- Champions/Ambassadors
+- Build concrete guidline doc (flow diagram?) for giving/recieving feedback
+    - Add general rules for framing the system (frequency of feedback, who to seek it from, how, central axioms)
+    
+- Champions/Ambassadors 
+    - Create docDoc & selection
+    - General framework for each of the different interactions
+    - Pilot scheme
+    
 - Scaffold behaviour (Phase 2)
 
 ***
@@ -24,7 +28,7 @@ Areas/Contexts that have not been addressed:
 
     Teaching eachother. Not getting bogged down in problems that others have solved.
 
-3. Retrospectives
+3. [Retrospectives](https://vizzuality.github.io/playbook/projects/retrospective/)
 
     Creating guidlines for retrospectives. What have we learned? What can be done better? If we do this it also lends well to feedforward processes...
 
