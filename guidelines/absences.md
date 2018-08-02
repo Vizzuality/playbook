@@ -20,7 +20,7 @@ Please note that the absences are not pulled through in the iCal feed: always us
 
 ## Optional extra: Teamweek
 
-In some projects we use Teamweek to plan our work for weeks or months at a time. For these staff involved in planning, it can be useful that you also record your absences (vacation, working but mostly unavailable etc)  in Teamweek too, using the "holiday" project and create projects for events you're taking part in. This is visible in the timeline in the same way as your project assignments.
+In some projects we use Teamweek to plan our work for weeks or months at a time. For these staff involved in planning, it can be useful that you also record your absences in Teamweek too. You can use the "holiday" or "maternal/parental leave" project. If your absence is related to a specific project workshop or meeting, add the words "unavailable" into the task description (+ allocate 8 hours a day to the task) so people can differentiate it from regular project work. For non-project absences not covered by the above, you can create a new project; again, make sure to label it as unavailable time. This is visible in the timeline in the same way as your project assignments.
 
 ![image](https://user-images.githubusercontent.com/134055/43245679-11a73f22-90a7-11e8-9e56-5ef4e99d13ac.png)
 
