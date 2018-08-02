@@ -41,3 +41,7 @@ Under this priority, we will undertake 3 main activities.
 
 **This is in order to double of per staff profit, so we're able to invest that new profit in more initiatives that achieve our purpose.**
 
+
+## Additional priorities
+There are a number of other strategic priorities that we want to focus on in the coming years. But we won't be able to do them until we've delivered these first two groups of priorities. Therefore we're using a classic Agile Backlog system. Once we have secured a greater source of funds for new initiatives, we will reopen the backlog and, using a consent process, include a few new priorities.
+
