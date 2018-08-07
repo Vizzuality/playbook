@@ -1,6 +1,9 @@
-# Vizzuality documentation index
+# Vizzuality documents index
 
 Feel free to add any documents here. This is a index of any old documents written at vizzuality.
+
+⚠️❗️⚠️ Make sure the documents are not open to the public if there is any sensitive information ⚠️❗️⚠️
+
 
 ### General documents
 
