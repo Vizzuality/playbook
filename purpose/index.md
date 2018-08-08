@@ -20,7 +20,7 @@ We would like to propose four main visions for what we want to achieve in the ne
 
 An initial version of these statements was presented at Vizzcamp 2018, and using the feedback from the sessions and the comments coming out of the consent process we refined these statements. We received no blocking comments, only suggestions. You can see the initial statements, the comments we heard, and how we reflected those in our new visions, [in this document](https://docs.google.com/document/d/1DW-VBXcWSFlFrvqnZUZALL4iT5G7tbxzXXBFUs23Dh4/edit)
 
-## Strategic Priorities
+## Strategic Priorities **UP FOR REVIEW UNTIL MONDAY 14TH**
 
 We will present our first group of strategic priorities at the August 2018 All Hands meeting. These will include two main priorities for the next six months. 
 
@@ -42,6 +42,6 @@ Under this priority, we will undertake 3 main activities.
 **This is in order to double of per staff profit, so we're able to invest that new profit in more initiatives that achieve our purpose.**
 
 
-## Additional priorities
+## Additional priorities **NOT UP FOR REVIEW JUST YET**
 There are a number of other strategic priorities that we want to focus on in the coming years. But we won't be able to do them until we've delivered these first two groups of priorities. Therefore we're using a classic Agile Backlog system. Once we have secured a greater source of funds for new initiatives, we will reopen the backlog and, using a consent process, include a few new priorities. [You can see these here](https://docs.google.com/spreadsheets/d/1wJvU3uYNN4lS_mKdvLH2CMji61G-P5vKIIHMrvnFEek/edit#gid=798446450) if you want to comment already
 
