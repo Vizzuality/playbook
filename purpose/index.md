@@ -22,9 +22,10 @@ An initial version of these statements was presented at Vizzcamp 2018, and using
 
 ## Strategic Priorities **UP FOR REVIEW UNTIL MONDAY 14TH**
 
-We will present our first group of strategic priorities at the August 2018 All Hands meeting. These will include two main priorities for the next six months. 
+We have two main priorities for the next six months. 
 
-**1. Increase the urgency of our work and complete projects more quickly**
+**1. Increase the urgency of our work and complete projects more quickly.**
+
 Under this priority we will undertake four main activities
 
 * Creating 6 systems are consentmentized and operational by the EO 2018 built around speed and quality
@@ -32,7 +33,8 @@ Under this priority we will undertake four main activities
 * Hire and train staff with different skills/ backgrounds who can create new tools, data, research and idea	
 * Build an organistional structure that empowers individual ownership of our work, rewarding positive behaviour and a drive towards our results	
 
-**2. Win the largest, best, most impactful, and most profitable projects**
+**2. Win the largest, best, most impactful, and most profitable projects.**
+
 Under this priority, we will undertake 3 main activities. 
 
 * We are working on 20 projects in 2019 with an avg sized income of 200k
