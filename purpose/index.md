@@ -28,20 +28,20 @@ We have two main priorities for the next six months.
 
 Under this priority we will undertake four main activities
 
-* Creating 6 systems are consentmentized and operational by the EO 2018 built around speed and quality
+* The 6 systems we’re creating are built around increasing speed and quality and are consentmentized and operational by the end of 2018
 * Invest in equipment that allows us to communicate faster between offices and clients
-* Hire and train staff with different skills/ backgrounds who can create new tools, data, research and idea	
+* Hire and train staff with different skills/ backgrounds who can create new tools, data, research and ideas	
 * Build an organistional structure that empowers individual ownership of our work, rewarding positive behaviour and a drive towards our results	
 
 **2. Win the largest, best, most impactful, and most profitable projects.**
 
 Under this priority, we will undertake 3 main activities. 
 
-* We are working on 20 projects in 2019 with an avg sized income of 200k
-* Won more grants to build our research team
-* We have extended our client base into Europe
+* Work on 20 projects in 2019 with an average sized income of 200k
+* Win more grants to build our research team
+* Extend our client base into Europe
 
-**This is in order to double of per staff profit, so we're able to invest that new profit in more initiatives that achieve our purpose.**
+**This is in order to double our per staff profit, so we're able to invest that new profit in more initiatives that achieve our purpose.**
 
 
 ## Additional priorities **NOT UP FOR REVIEW JUST YET**
