@@ -26,20 +26,22 @@ We have two main priorities for the next six months.
 
 **1. Increase the urgency of our work and complete projects more quickly.**
 
-Under this priority we will undertake four main activities
+Under this priority we will undertake five main activities
 
 * The 6 systems we’re creating are built around increasing speed and quality and are consentmentized and operational by the end of 2018
-* Invest in equipment that allows us to communicate faster between offices and clients
-* Hire and train staff with different skills/ backgrounds who can create new tools, data, research and ideas	
 * Build an organistional structure that empowers individual ownership of our work, rewarding positive behaviour and a drive towards our results	
+* Build a strategy for better communication during meetings (including good practices and equipment)
+* Hire staff with different skills/ backgrounds who can create new tools, data, research and ideas.
+* Define internal training needs for our current staff to create new tools, data, research and ideas
 
 **2. Win the largest, best, most impactful, and most profitable projects.**
 
-Under this priority, we will undertake 3 main activities. 
+Under this priority, we will undertake four main activities. 
 
 * Work on 20 projects in 2019 with an average sized income of 200k
 * Win more grants to build our research team
 * Extend our client base into Europe
+* Investigate ways to change budget, rates, scope management or types of project to ensure we're setting ourselves up for profitability
 
 **This is in order to double our per staff profit, so we're able to invest that new profit in more initiatives that achieve our purpose.**
 
