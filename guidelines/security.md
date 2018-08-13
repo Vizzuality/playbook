@@ -31,6 +31,14 @@ If you suspect a personal or non personal account has been compromised or a devi
 When sharing passwords with other team members, do so using LastPass. LastPass entries should be grouped within a LastPass 
 folder, which can then be shared with the whole project team.
 
+If youre working or generating certificates of any kind, make sure to follow these steps. 
+
+1. Any attached password or username or information required to use it. 
+2. What does this certificate have access rights too?
+3. Does this certificate have access to NDA material? 
+4. stored in a secure place on LastPass (yes lastpass supports files).
+5. If you’re creating a certificate, make sure youre registering it on a company profile, not your own personal credentials. 
+
 ### With clients
 
 Each client organisation has different practices around security and password management, making this specific guideline 
@@ -49,6 +57,8 @@ passwords:
 In certain scenarios, the client will request that we send the password through one of these channels anyway. We should
 warn about the security risk of this, and request that the receiving person change that specific password as soon as they
  receive it.
+
+If a certificate has to be shared with a client, make sure the certificate do not have access to any other client information than is required.
 
 ## Internet access
 
