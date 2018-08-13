@@ -63,6 +63,33 @@ If you're working or generating digital certificates of any kind - like the ones
 
 If a certificate has to be shared with a client, make sure the certificate does not have access to any other client information than is required. Use the same guidelines as you would use to share a password to share a certificate.
 
+## Github
+
+If you use git and github, this section is for you. If you don't, move along, here be dragons.
+
+### Transfer protocol
+
+Github supports two main methods of communicating with their servers: SSH or HTTPS. Both are secure, and can be used 
+interchangeably. You can find a detailed comparison of these two options (and a few others) [in this link](https://gist.github.com/grawity/4392747).
+You should always use one of these two methods, as they are the only ones with security built in. You can find
+ Github's recommendation [here](https://help.github.com/articles/which-remote-url-should-i-use/) - this has been known
+ to change frequently, so don't worry if you are not using their recommended version. Also keep in mind that they 
+ behave in slightly different ways during day-to-day usage, as SSH requires less password management over HTTPS.
+
+### Signing commits
+
+While not required, it's strongly recommended that you sign your commits using a GPG key to protect against 
+[commit spoofing](https://medium.com/@pjbgf/spoofing-git-commits-7bef357d72f0). The process is similar to generating SSH
+keys, and you can fins the instructions to do so [in this link](https://help.github.com/articles/signing-commits-using-gpg/).
+Signed commits will display a "Verified" message next to them - you can see an example of this in PR merge commits.
+
+### Deploy keys
+
+In some scenarios, certain Github projects need to be cloned onto servers or other similar environments. When doing so,
+and if you need to grant that environment access to your Github account (for example, to clone a private repository), 
+be sure to use a [deploy key](https://developer.github.com/v3/guides/managing-deploy-keys/) instead of a traditional 
+SSH key. 
+
 
 ## Internet access
 
