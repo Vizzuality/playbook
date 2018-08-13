@@ -20,7 +20,7 @@ We would like to propose four main visions for what we want to achieve in the ne
 
 An initial version of these statements was presented at Vizzcamp 2018, and using the feedback from the sessions and the comments coming out of the consent process we refined these statements. We received no blocking comments, only suggestions. You can see the initial statements, the comments we heard, and how we reflected those in our new visions, [in this document](https://docs.google.com/document/d/1DW-VBXcWSFlFrvqnZUZALL4iT5G7tbxzXXBFUs23Dh4/edit)
 
-## Strategic Priorities **UP FOR REVIEW UNTIL MONDAY 14TH**
+## Strategic Priorities **UP FOR REVIEW UNTIL MONDAY 13TH**
 
 We have two main priorities for the next six months. 
 
