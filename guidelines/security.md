@@ -80,7 +80,7 @@ You should always use one of these two methods, as they are the only ones with s
 
 While not required, it's strongly recommended that you sign your commits using a GPG key to protect against 
 [commit spoofing](https://medium.com/@pjbgf/spoofing-git-commits-7bef357d72f0). The process is similar to generating SSH
-keys, and you can fins the instructions to do so [in this link](https://help.github.com/articles/signing-commits-using-gpg/).
+keys, and you can find the instructions to do so [in this link](https://help.github.com/articles/signing-commits-using-gpg/).
 Signed commits will display a "Verified" message next to them - you can see an example of this in PR merge commits.
 
 ### Deploy keys
