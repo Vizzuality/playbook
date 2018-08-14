@@ -13,7 +13,7 @@ The goals are:
 - Everyone is comfortable and open.
 - We address challenges together.
 - We have clear expectations.
-- There are no stupid questions.
+- There's no such thing as a stupid question.
 - There are ongoing positive and/or corrective processes for everyone.
 - We all make it a priority to improve each other and the whole organization. 
 
