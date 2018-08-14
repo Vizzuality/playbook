@@ -6,7 +6,7 @@
     - Add general rules for framing the system (frequency of feedback, who to seek it from, how, central axioms)
     
 - Champions/Ambassadors 
-    - Create docDoc & selection
+    - Create doc & selection
     - General framework for each of the different interactions
     - Pilot scheme
     

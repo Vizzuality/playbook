@@ -23,15 +23,17 @@ Every day, we should aim to improve ourselves, the company, and offer useful fee
 
 ## When to request Feedback
 
-If you feel like you haven't had any feedback in a while (*> 1 week*) then its on you to seek it.
+If you feel like you haven't had any feedback in a while (*> 1 week*) then it's on you to seek it.
 
-*\<insert formal process\>*
+This can be as simple as approaching one of your peers or your PM about the work you've been doing recently.
+
+Also, try to be specific about what *exactly* you want feedback about? Refer to the [Giving Feedback doc](giving_feedback.md) for help here.
 
 ***
 
 ## Receiving Feedback and Acting on it Effectively
 
-Conversely, these principles are focused on how to act effectively during/after receiving feedback:
+These principles are focused on how to act during/after receiving feedback in order for the process to be impacful:
 
 1. **Clarify**
    
@@ -49,6 +51,3 @@ Conversely, these principles are focused on how to act effectively during/after 
    
    Review how you improved. After a feedback the feedback process went, how it went, and monitor how follow-up is progressing. The learning process doesn’t finish when the feedback session closes, this principle is basic and has impact on your colleagues and direct reports, and everyone on the team benefits.
 
-***
-
-*See you, space cowboy!*
