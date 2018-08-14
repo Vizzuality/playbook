@@ -5,9 +5,8 @@
 What do they do?
 
 - Model good feedback processes
-- Prompt feedback & action
-- Frequency?
-- Topic/Context
+- Prompt feedback
+- Focus on giving quality feedback to 3 individuals per week
 - Support actioning
 
 Who can/should be a Champion?

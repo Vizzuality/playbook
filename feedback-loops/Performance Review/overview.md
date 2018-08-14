@@ -12,7 +12,7 @@ Note that here we will use the terms *formal review / performance review* interc
 
 First, it is useful to define formative (*ongoing*) and summative (*end of line*) feedback more clearly.
 
-What is the distinction? If we can identify the differences, we can identify elements that we can take from the formative system and what elements need to be altered. 
+What is the distinction? If we can identify the differences, we can identify elements that we can take from the formative system and what elements need to be altered.
 
 Here, formal reviews are a summative mode of feedback whose goal is to collect evidence in order to assess progress or competence. Typically, summative feedback is characterised by being:
 

@@ -23,7 +23,7 @@ Every day, we should aim to improve ourselves, the company, and offer useful fee
 
 ### When to Give Feedback?
 
-The first step is recognising opportunities to give feedback. 
+Ideally you should give somebody informal feedback to someone you are working with once each day. The first step towards doing this is recognising opportunities to give feedback:
 
 - *During handovers*
   
@@ -100,26 +100,3 @@ These principles are concerned with how to give feedback effectively:
    
    As has been outlined in the other three points, acting on feedback can break down when viewed as an order or directive by the recipient. Always nurture the idea of feedback as a collaboration. Respect their thoughts and be prepared to shift your stance at times.
 
-***
-
-### When to Give Feedback?
-
-The first step is recognising opportunities to give feedback. 
-
-- *During handovers*
-  
-  Handovers between functional groups are likely to surface opportunities for rich feedback. Bridging the gap in understanding between researchers, designers, data-scientists, and devs is core to becoming more productive and efficient so try go give feedback that can aid smooth these transitions.
-
-- *When you see good work being done!*
-  
-  Positive feedback is essential to making sure we keep on doing what we're awesome at.
-
-- *When you recognise an opportunity for improvement*
-  
-  More on this below.
-
-- *At the end of a sprint*
-
-  How could teh sprint have run more smoothly? Feedback between you and your PM could well improve productivity of future sprints.
-
-***
