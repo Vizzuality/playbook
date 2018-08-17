@@ -29,7 +29,9 @@ These are our recommendations for preparation of data files for import into a da
     - It is good to be aware that some characters might exist in multiple variations in heterogeneous source files. For example, there are ~15 unicode characters that are different flavours of quotation marks. For purposes of consistent presentation, those are best unified;
     - Spelling and capitalisation variations are often a cause of duplicate records in the database. Where a text is repeated across rows in the import file it helps to pay attention to keeping it consistent (e.g. "and" vs "&", typos, inconsistent punctuation etc);
     - Repetition of this kind may also be an indication of a need to split the spreadsheet, creating a "dictionary".
-11. Where data references locations (e.g. regions, countries, sub-national units)
-    - For countries we 
-11. Files should contain only data that is ment to be imported, rather than all available data;
-12. The fewer files, and the more consistent in structure, the better. Often a few spreadsheets with related / similarly structured data can be combined into a single one by adding a column to meaningfully differentiate between the rows.
+11. Where data references locations:
+    - Location names should not appear directly in data files, instead codes should be used to reference them;
+    - To reference countries it is best to use standardised three letter iso codes;
+    - Regions, country groupings and sub-national units require a dictionary file which establishes unique codes for those entities, so that data files can reference the codes instead of full names (e.g. `geoid | name | type`)
+12. Files should contain only data that is ment to be imported, rather than all available data;
+13. The fewer files, and the more consistent in structure, the better. Often a few spreadsheets with related / similarly structured data can be combined into a single one by adding a column to meaningfully differentiate between the rows.
