@@ -63,6 +63,16 @@ If you're working or generating digital certificates of any kind - like the ones
 
 If a certificate has to be shared with a client, make sure the certificate does not have access to any other client information than is required. Use the same guidelines as you would use to share a password to share a certificate.
 
+## Other sensitive info
+
+In general, any other types of sensitive info used in projects or services, like secret keys, authorization tokens, etc should be stored and saved through LastPass using the "secure notes" feature. When storing and sharing please include all the relevant info:
+
+- The key ot token itself
+- The service/project it is for
+- Date of creation (and expiry if appropriate)
+- Usage instructions (eg. include on config file)
+- Contact person
+
 ## Github
 
 If you use git and github, this section is for you. If you don't, move along, here be dragons.
