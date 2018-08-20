@@ -33,5 +33,5 @@ These are our recommendations for preparation of data files for import into a da
     - Location names should not appear directly in data files, instead codes should be used to reference them;
     - To reference countries it is best to use standardised three letter iso codes;
     - Regions, country groupings and sub-national units require a dictionary file which establishes unique codes for those entities, so that data files can reference the codes instead of full names (e.g. `geoid | name | type`)
-12. Files should contain only data that is ment to be imported, rather than all available data;
+12. Files should contain only data that is meant to be imported, rather than all available data;
 13. The fewer files, and the more consistent in structure, the better. Often a few spreadsheets with related / similarly structured data can be combined into a single one by adding a column to meaningfully differentiate between the rows.
