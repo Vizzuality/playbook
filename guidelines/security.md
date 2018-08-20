@@ -99,6 +99,8 @@ and if you need to grant that environment access to your Github account (for exa
 be sure to use a [deploy key](https://developer.github.com/v3/guides/managing-deploy-keys/) instead of a traditional 
 SSH key. 
 
+## NPM and published libraries
+When creating a module to NPM enable 2FA for the publishing and settings update following the recommedations stated above.
 
 ## Internet access
 
