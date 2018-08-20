@@ -22,8 +22,12 @@ These are our recommendations for preparation of data files for import into a da
     - Sometimes it is acceptable to have more than one value in a cell, for example in cases where we want to express a relationship between one entity of type A and more than one entity of type B and we do not need any other attributes to describe that association. In such case the convention is to use a semicolon-separated list of keys.
 8. Missing data is best represented by absence of data, i.e. empty cell;
 9. Where data contains numeric indicator values:
-    - It is often a good idea to include a metadata file with indicator name + unit and a short name ("code" or "slug"), which is referenced in other sheets;
-    - It is important for the unit to be part of the data / metadata, rather than be embedded in the file name or column name.
+    - It is often a good idea to include a metadata file with indicator name + unit and a short name ("code" or "slug"), which is referenced in other sheets.
+    - It is important for the unit to be part of the data / metadata, rather than be embedded in the file name or column name. This example illustrates how this can be achieved:
+       * Metadata (indicators) file includes these columns: `slug | name | unit | description`;
+       * Data (values) file includes these columns: `indicator_slug | location_code | year | value`;
+       * All values in the `value` should be in the same unit;
+       * If different values in the value column must be in different units, add a `unit` column next to it in the data file.
 10. Where the data contains formatted text:
     - It is best to format it in markdown. This also applies where text does not need rich formatting, but needs to be displayed in paragraphs;
     - It is good to be aware that some characters might exist in multiple variations in heterogeneous source files. For example, there are ~15 unicode characters that are different flavours of quotation marks. For purposes of consistent presentation, those are best unified;
