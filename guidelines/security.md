@@ -28,8 +28,7 @@ If you suspect a personal or non personal account has been compromised or a devi
 
 ### Internally
 
-When sharing passwords with other team members, do so using LastPass. LastPass entries should be grouped within a LastPass 
-folder, which can then be shared with the whole project team.
+When sharing passwords with other team members, do so using LastPass. LastPass entries should be grouped within a LastPass folder, which can then be shared with the project team and ideally also relevant staff from outside of the strict project team, who might be able to step in and help with a project when needed.
 
 ### With clients
 
