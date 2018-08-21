@@ -1,5 +1,7 @@
 # Voluntary unpaid leave
 
+## Spain
+
 ### What is it
 It is a period that the worker can ask the company during which the employment contract is suspended and neither the worker has the obligation to go to his position, nor the company has the obligation to pay the salary or to quote for the worker.
 
@@ -60,3 +62,11 @@ To be able to return to the company it is necessary that the interested party ma
   - It is understood as a denial of the employment relationship. In this case, the employee could file a dismissal complaint.
 - The company denies reinstatement
   - It the same than a dismissal, with all the consequences and effects related to the payment of the corresponding severance payments and liquidations of assets pending payment.
+
+## Porto
+
+TBD
+
+## UK
+
+TBD
