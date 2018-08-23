@@ -52,7 +52,7 @@ Feedback is most useful to someone when likelihood of improvement is high. So it
 ```
 (easy)    Technical Skills
   
-  Ʌ       Time Management
+  Ʌ       Working Practices (e.g. Time Management)
   |
   |       Knowledge
   |
