@@ -49,6 +49,23 @@ In certain scenarios, the client will request that we send the password through 
 warn about the security risk of this, and request that the receiving person change that specific password as soon as they
  receive it.
 
+## Internet access
+
+When outside the office/your home, avoid connecting to public wifi networks. There's a [wide range of attacks](http://blog.privatewifi.com/how-wifi-hotspot-hacks-occur/) that can be executed around the concept of wifi hotspots, and even
+legitimate hotspots usually track your browsing habits or inject annoying ads into your browser.
+
+As an alternative, you can use a tethered connection from your smartphone to your computer, or use a VPN service when using a public hotspot network.
+
+
+## Computers
+
+Your computer should have Full Disk Encryption enabled. All modern operating systems support this out of the box 
+(Apple calls its implementation FileVault), and the performance impact is negligible or non-existent, depending on
+your hardware and OS.
+
+Your login password should be complex enough as to not be guessable through trial-and-errors (avoid relatives names, birth dates, phone numbers, etc).
+
+Be mindful of what devices you connect to your computer. Malware DOES exist for MacOS, and it can be injected into your computer [from where you least expect](https://www.techspot.com/news/75923-british-security-expert-mods-usb-c-apple-charger.html).
 
 ## Digital certificates
 
@@ -101,22 +118,3 @@ SSH key.
 
 ## NPM and published libraries
 When creating a module to NPM enable 2FA for the publishing and settings update following the recommedations stated above.
-
-## Internet access
-
-When outside the office/your home, avoid connecting to public wifi networks. There's a [wide range of attacks](http://blog.privatewifi.com/how-wifi-hotspot-hacks-occur/) that can be executed around the concept of wifi hotspots, and even
-legitimate hotspots usually track your browsing habits or inject annoying ads into your browser.
-
-As an alternative, you can use a tethered connection from your smartphone to your computer, or use a VPN service when using a public hotspot network.
-
-
-## Computers
-
-Your computer should have Full Disk Encryption enabled. All modern operating systems support this out of the box 
-(Apple calls its implementation FileVault), and the performance impact is negligible or non-existent, depending on
-your hardware and OS.
-
-Your login password should be complex enough as to not be guessable through trial-and-errors (avoid relatives names, birth dates, phone numbers, etc).
-
-Be mindful of what devices you connect to your computer. Malware DOES exist for MacOS, and it can be injected into your computer [from where you least expect](https://www.techspot.com/news/75923-british-security-expert-mods-usb-c-apple-charger.html). 
-
