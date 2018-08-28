@@ -1,6 +1,6 @@
-#**Purpose.** 
+# **Purpose.** 
 
-> **Vizzuality's purpose is to reach a fair and sustainable planet by creating tools that radically empower people to make positive changes now.**
+### **Vizzuality's purpose is to reach a fair and sustainable planet by creating tools that radically empower people to make positive changes now.**
 
 This vision was accepted by consent in a whole-company workshop in May 2018. 
 
@@ -22,24 +22,28 @@ An initial version of these statements was presented at Vizzcamp 2018, and using
 
 ## Strategic Priorities
 
-We will present our first group of strategic priorities at the August 2018 All Hands meeting. These will include two main priorities for the next six months. 
+We have two main priorities for the next six months. 
 
-**1. Increase the urgency of our work and complete projects more quickly**
-Under this priority we will undertake four main activities
+**1. Increase the urgency of our work and complete projects more quickly.**
 
-* Creating 6 systems are consentmentized and operational by the EO 2018 built around speed and quality
-* Invest in equipment that allows us to communicate faster between offices and clients
-* Hire and train staff with different skills/ backgrounds who can create new tools, data, research and idea	
+Under this priority we will undertake five main activities
+
+* The 6 systems we’re creating are built around increasing speed and quality and are consentmentized and operational by the end of 2018
 * Build an organistional structure that empowers individual ownership of our work, rewarding positive behaviour and a drive towards our results	
+* Build a strategy for better communication during meetings (including good practices and equipment)
+* Hire staff with different skills/ backgrounds who can create new tools, data, research and ideas.
+* Define internal training needs for our current staff to create new tools, data, research and ideas
 
-**2. Win the largest, best, most impactful, and most profitable projects**
-Under this priority, we will undertake 3 main activities. 
+**2. Win the largest, best, most impactful, and most profitable projects.**
 
-* We are working on 20 projects in 2019 with an avg sized income of 200k
-* Won more grants to build our research team
-* We have extended our client base into Europe
+Under this priority, we will undertake four main activities. 
 
-**This is in order to double of per staff profit, so we're able to invest that new profit in more initiatives that achieve our purpose.**
+* Work on 20 projects in 2019 with an average sized income of 200k (baseline is 32 projects with $103k average size)
+* Win more grants to build our research team
+* Extend our client base into Europe
+* Investigate ways to change budget, rates, scope management or types of project to ensure we're setting ourselves up for profitability
+
+**This is in order to double our per staff profit, so we're able to invest that new profit in more initiatives that achieve our purpose.**
 
 
 ## Additional priorities
