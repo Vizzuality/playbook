@@ -20,7 +20,7 @@ We would like to propose four main visions for what we want to achieve in the ne
 
 An initial version of these statements was presented at Vizzcamp 2018, and using the feedback from the sessions and the comments coming out of the consent process we refined these statements. We received no blocking comments, only suggestions. You can see the initial statements, the comments we heard, and how we reflected those in our new visions, [in this document](https://docs.google.com/document/d/1DW-VBXcWSFlFrvqnZUZALL4iT5G7tbxzXXBFUs23Dh4/edit)
 
-## Strategic Priorities **UP FOR REVIEW UNTIL MONDAY 13TH**
+## Strategic Priorities
 
 We have two main priorities for the next six months. 
 
@@ -38,7 +38,7 @@ Under this priority we will undertake five main activities
 
 Under this priority, we will undertake four main activities. 
 
-* Work on 20 projects in 2019 with an average sized income of 200k
+* Work on 20 projects in 2019 with an average sized income of 200k (baseline is 32 projects with $103k average size)
 * Win more grants to build our research team
 * Extend our client base into Europe
 * Investigate ways to change budget, rates, scope management or types of project to ensure we're setting ourselves up for profitability
@@ -46,6 +46,6 @@ Under this priority, we will undertake four main activities.
 **This is in order to double our per staff profit, so we're able to invest that new profit in more initiatives that achieve our purpose.**
 
 
-## Additional priorities **NOT UP FOR REVIEW JUST YET**
+## Additional priorities
 There are a number of other strategic priorities that we want to focus on in the coming years. But we won't be able to do them until we've delivered these first two groups of priorities. Therefore we're using a classic Agile Backlog system. Once we have secured a greater source of funds for new initiatives, we will reopen the backlog and, using a consent process, include a few new priorities. [You can see these here](https://docs.google.com/spreadsheets/d/1wJvU3uYNN4lS_mKdvLH2CMji61G-P5vKIIHMrvnFEek/edit#gid=798446450) if you want to comment already
 
