@@ -29,4 +29,4 @@ It’s your job as a facilitator to make sure they can follow/ join the conversa
 - For larger gatherings: make sure that, when questions are asked, the questioner is near a microphone. You can use chats in Slack or Hangouts to repeat questions. 
 - Try using a flag system - especially where lots of people are remote, allow people to ‘raise their hand to speak’, and make sure the people in the room do the same when they want to talk.
 
-OK, now you're ready to start putting toegether an agenda! [Go back](/projects/sprint-guidelines/index) 
+OK, now you're ready to start putting toegether an agenda! [Go back](sprint-guidelines/index.md) 

@@ -46,28 +46,28 @@ For our ongoing projects we are increasingly using sprints to better define new 
 #Writing an agenda
 If you do decide to run a sprint, look over the following pages for advice about the kinds of activities you could run, and how to put a sprint together. 
 
-[Preparing a sprint](/projects/sprint-guidelines/preparing-a-sprint) - Must Read before you go any further
+[Preparing a sprint](sprint-guidelines/preparing-a-sprint.md) - Must Read before you go any further
 
 ##Activities to complete in most sprints**
 
-[Introductions](/projects/sprint-guidelines/introductions)
-[Information Download/ Lightning Talks](/projects/sprint-guidelines/introductions)
-[The Headline Game](/projects/sprint-guidelines/headline-persona-review)
-[A session about personas](/projects/sprint-guidelines/headline-persona-review)
-[Next steps closing session](/projects/sprint-guidelines/headline-persona-review)
+[Introductions](sprint-guidelines/introductions.md)
+[Information Download/ Lightning Talks](sprint-guidelines/introductions.md)
+[The Headline Game](sprint-guidelines/headline-persona-review.md)
+[A session about personas](sprint-guidelines/headline-persona-review.md)
+[Next steps closing session](sprint-guidelines/headline-persona-review.md)
 
 ##Some other ideas for activities to include
-[What problems do we need to solve?](/projects/sprint-guidelines/problems)
-[What content should be on this site?](/projects/sprint-guidelines/content)
-[Yes and...](/projects/sprint-guidelines/yesand)
-[Describing this project](/projects/sprint-guidelines/description)
-[What have you learned in the project so far?](/projects/sprint-guidelines/learned)
-[What needs to be true?](/projects/sprint-guidelines/wntbt)
-[Creating personas](/projects/sprint-guidelines/personas)
-[Creating use cases](/projects/sprint-guidelines/use-cases)
-[Building a stakeholder network map](/projects/sprint-guidelines/network-map)
-[Landscape Analysis](/projects/sprint-guidelines/landscape)
-[What is the metaphor/ concept behind this site?](/projects/sprint-guidelines/concept)
-[Rapid Sketching](/projects/sprint-guidelines/sketching)
-[User Journeys](/projects/sprint-guidelines/journeys)
-[Ice Breakers](/projects/sprint-guidelines/ice-breakers)
+[What problems do we need to solve?](sprint-guidelines/problems.md)
+[What content should be on this site?](sprint-guidelines/content.md)
+[Yes and...](sprint-guidelines/yesand.md)
+[Describing this project](sprint-guidelines/description.md)
+[What have you learned in the project so far?](sprint-guidelines/learned.md)
+[What needs to be true?](sprint-guidelines/wntbt.md)
+[Creating personas](sprint-guidelines/personas.md)
+[Creating use cases](sprint-guidelines/use-cases.md)
+[Building a stakeholder network map](sprint-guidelines/network-map.md)
+[Landscape Analysis](sprint-guidelines/landscape.md)
+[What is the metaphor/ concept behind this site?](sprint-guidelines/concept.md)
+[Rapid Sketching](sprint-guidelines/sketching.md)
+[User Journeys](sprint-guidelines/journeys.md)
+[Ice Breakers](sprint-guidelines/ice-breakers.md)
