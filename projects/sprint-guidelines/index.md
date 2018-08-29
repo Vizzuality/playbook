@@ -50,25 +50,24 @@ If you do decide to run a sprint, look over the following pages for advice about
 
 ##Activities to complete in most sprints**
 
-Introductions
-Information Download/ Lightning Talks
-The Headline Game
-A session about personas
-Next steps closing session
+[Introductions](/projects/sprint-guidelines/introductions)
+[Information Download/ Lightning Talks](/projects/sprint-guidelines/introductions)
+[The Headline Game](/projects/sprint-guidelines/headline-persona-review)
+[A session about personas](/projects/sprint-guidelines/headline-persona-review)
+[Next steps closing session](/projects/sprint-guidelines/headline-persona-review)
 
-
-##Optional Extras
-What problems do we need to solve?
-What content should be on this site?
-Yes and...
-Describing this project
-What have you learned in the project so far?
-What needs to be true?
-Creating personas
-Creating use cases
-Building a stakeholder network map
-Landscape Analysis
-What is the metaphor/ concept behind this site?
-Rapid Sketching
-User Journeys
-Ice Breakers
+##Some other ideas for activities to include
+[What problems do we need to solve?](/projects/sprint-guidelines/problems)
+[What content should be on this site?](/projects/sprint-guidelines/content)
+[Yes and...](/projects/sprint-guidelines/yesand)
+[Describing this project](/projects/sprint-guidelines/description)
+[What have you learned in the project so far?](/projects/sprint-guidelines/learned)
+[What needs to be true?](/projects/sprint-guidelines/wntbt)
+[Creating personas](/projects/sprint-guidelines/personas)
+[Creating use cases](/projects/sprint-guidelines/use-cases)
+[Building a stakeholder network map](/projects/sprint-guidelines/)
+[Landscape Analysis](/projects/sprint-guidelines/)
+[What is the metaphor/ concept behind this site?](/projects/sprint-guidelines/)
+[Rapid Sketching](/projects/sprint-guidelines/)
+[User Journeys](/projects/sprint-guidelines/)
+[Ice Breakers](/projects/sprint-guidelines/)
