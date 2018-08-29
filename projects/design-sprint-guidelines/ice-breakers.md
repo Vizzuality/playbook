@@ -1,9 +1,9 @@
-#Ice Breakers
+# Ice Breakers
 
-##Useful for. 
+## Useful for. 
 Meeting some new colleagues, getting everyone to talk and helping create a happy, excited, creative air. 
 
-##How to do it.
+## How to do it.
 
 There's a number of different options available, here's some of the ones we've used in the past.
 

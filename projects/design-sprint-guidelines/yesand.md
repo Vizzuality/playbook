@@ -1,10 +1,10 @@
-#Yes and.
+# **Yes and.**
 
-##Useful for.
+## Useful for.
 Thinking of creative or innovative ways to deliver a certain feature. 
 
-##How to do it. 
-Using the results of the [what content activity](sprint-guidelines/content.md), you should have a set of features/ contents that should be on the site. Split them amongst a couple of small groups (2-3 people each) and then run the activity. Put the feature/ content as a postit at the top of a wall/ whiteboard. Then, between the 2 or 3 of you, extend that idea by saying “yes and…”. 
+## How to do it. 
+Using the results of the [what content activity](content.md), you should have a set of features/ contents that should be on the site. Split them amongst a couple of small groups (2-3 people each) and then run the activity. Put the feature/ content as a postit at the top of a wall/ whiteboard. Then, between the 2 or 3 of you, extend that idea by saying “yes and…”. 
 
 EG if a feature is “Impact visualisation”, the yes ands could be 
 - “yes and it’s built with the New York Times datavizz team for mass exposure”

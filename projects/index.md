@@ -7,7 +7,7 @@ The “Vizzuality Ethos” is the methodology of how we undertake our projects. 
 - [x] [Kick off Meeting & Project Onboarding](kick-off-and-onboarding/index.md)
 - [x] [Stories and acceptance tests](stories-and-acceptance-tests/index.md)
 - [x] [Quality checklist](quality-checklist/index.md)
-- [x] [Sprint Guidelines](sprint-guidelines/index.md)
+- [x] [Design Sprint Guidelines](design-sprint-guidelines/index.md)
 
 ## Development
 

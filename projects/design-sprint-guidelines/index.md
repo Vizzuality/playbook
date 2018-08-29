@@ -1,14 +1,14 @@
 # **Sprint Guidelines**
 
-#Sprints at Vizzuality
+# Sprints at Vizzuality
 
 We run a lot of different kinds of sprint. Some are just a few hours, some are a few days. Each of them is a chance for us to get together, as a project team, to discuss the problems to be solved and start creating some solutions that fit the data, user and technology needs of the project. 
 
 In these pages we outline some of the best practices we’ve learned from doing each of these. 
 
-#When should I do a sprint? 
+# When should I do a sprint? 
 
-##Kicking off a project with a client.
+## Kicking off a project with a client.
 
 Many of our sprints take place at the beginning of a project, but not necessarily at the beginning of every project. Ask yourself the following questions before deciding to invite the client for a sprint
 - How big is this project? 
@@ -19,7 +19,7 @@ Many of our sprints take place at the beginning of a project, but not necessaril
 --Ideally they would bring a small team to our office: then it’s easier for us to bring in a wide range of staff as and when needed. 
 --If not, think carefully about which staff to bring. Ideally we would bring a PM, research, design and dev/data. 
 
-##Kicking off a project with our team.
+## Kicking off a project with our team.
 Following that kick-off sprint, we then often hold a second internal sprint to push forward our thinking about website objectives, users, structure, architecture and features. To determine whether we need to do one, ask yourself:
 
 - First read these guidelines about kicking off projects. 
@@ -36,38 +36,55 @@ Following that kick-off sprint, we then often hold a second internal sprint to p
 
 - Find a time and place, then write an agenda.
 
-##Creating ideas for a new feature.
+## Creating ideas for a new feature.
 For our ongoing projects we are increasingly using sprints to better define new features and rapidly develop ideas to meet those needs. If any of the statements sound familiar to you, you may want to run a sprint. 
 
 - The client is asking for a new feature but it’s not very well defined
 - A client is asking us to “come up with something creative”
 - The design team starts working on a feature but have a number of concerns about technical possibilities and data limitations
 
-#Writing an agenda
+# Writing an agenda
 If you do decide to run a sprint, look over the following pages for advice about the kinds of activities you could run, and how to put a sprint together. 
 
-[Preparing a sprint](sprint-guidelines/preparing-a-sprint.md) - Must Read before you go any further
+[Preparing a sprint](preparing-a-sprint.md) - Must Read before you go any further
 
-##Activities to complete in most sprints**
+## Activities to complete in most sprints**
 
-[Introductions](sprint-guidelines/introductions.md)
-[Information Download/ Lightning Talks](sprint-guidelines/introductions.md)
-[The Headline Game](sprint-guidelines/headline-persona-review.md)
-[A session about personas](sprint-guidelines/headline-persona-review.md)
-[Next steps closing session](sprint-guidelines/headline-persona-review.md)
+[Introductions](introductions.md)
 
-##Some other ideas for activities to include
-[What problems do we need to solve?](sprint-guidelines/problems.md)
-[What content should be on this site?](sprint-guidelines/content.md)
-[Yes and...](sprint-guidelines/yesand.md)
-[Describing this project](sprint-guidelines/description.md)
-[What have you learned in the project so far?](sprint-guidelines/learned.md)
-[What needs to be true?](sprint-guidelines/wntbt.md)
-[Creating personas](sprint-guidelines/personas.md)
-[Creating use cases](sprint-guidelines/use-cases.md)
-[Building a stakeholder network map](sprint-guidelines/network-map.md)
-[Landscape Analysis](sprint-guidelines/landscape.md)
-[What is the metaphor/ concept behind this site?](sprint-guidelines/concept.md)
-[Rapid Sketching](sprint-guidelines/sketching.md)
-[User Journeys](sprint-guidelines/journeys.md)
-[Ice Breakers](sprint-guidelines/ice-breakers.md)
+[Information Download/ Lightning Talks](introductions.md)
+
+[The Headline Game](headline-persona-review.md)
+
+[A session about personas](headline-persona-review.md)
+
+[Next steps closing session](headline-persona-review.md)
+
+## Some other ideas for activities to include
+[What problems do we need to solve?](problems.md)
+
+[What content should be on this site?](content.md)
+
+[Yes and...](yesand.md)
+
+[Describing this project](description.md)
+
+[What have you learned in the project so far?](learned.md)
+
+[What needs to be true?](wntbt.md)
+
+[Creating personas](personas.md)
+
+[Creating use cases](use-cases.md)
+
+[Building a stakeholder network map](network-map.md)
+
+[Landscape Analysis](landscape.md)
+
+[What is the metaphor/ concept behind this site?](concept.md)
+
+[Rapid Sketching](sketching.md)
+
+[User Journeys](journeys.md)
+
+[Ice Breakers](ice-breakers.md)
