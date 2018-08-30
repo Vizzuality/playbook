@@ -113,12 +113,12 @@ We have a template (WIP) with possible questions for these calls. In general the
 
 Apart from other specific issues (such as availability, english language, etc) we should focus on the candidate’s motivation and offer to solve any doubts they may have about the position or the company.
 
-Brief minutes of the call should be documented in the “comments” section
+Brief minutes of the call should be documented in the “comments” section. Candidate will then be moved to "Phone screened" or discarded and informed accordingly.
 
 ### Challenge
-Some times we may request a skill challenge to the candidates. ---> link to code challenges (TBD create challenges for other roles?)
+Some times we may request a skill challenge to the candidates. ---> link to code challenges ([TBD] create challenges for other roles?)
 
-We should explain clearly what we expect from the challenge, how much effort we think the candidate should put on it, the general rules and what we will be trying to learn from it.
+We should explain clearly what we expect from the challenge, how much effort we think the candidate should put on it, the general rules and what we will be trying to learn from it. After sending the challenge candidate should be moved to "Requested Challenge"
 
 Once the challenge solution is received collaborators should do a round of discussion around it, evaluate it and ask for clarifications if needed.
 
