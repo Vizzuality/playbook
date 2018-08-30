@@ -16,7 +16,7 @@ Job descriptions should be based on the evaluation of the role we are looking fo
 - Responsive
 - Honest and generous
 
-[A WIP document with Vizzuality’s core competencies can be found here](https://docs.google.com/document/d/1uiOxd-rfeltZbGxP1yAe6_ZxPvup3o1JzCCQ-FTjNHc/edit) These are competencies that we expect from all team members at diferent levels, regardless of their role.
+[A WIP document with Vizzuality’s core competencies can be found here](https://docs.google.com/document/d/1ng6H8mzKMt98nUkeJofLgemHIoW2o2xPqZKaKq1Tz1Q/edit) These are competencies that we expect from all team members at diferent levels, regardless of their role.
 
 Specific roles have additional competencies, mostly technical; but they could also be about leadership or communication depending on the role. Before hiring for a role we should take time to define such competencies. 
 
