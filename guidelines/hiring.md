@@ -85,7 +85,8 @@ Add here
 Domestika (free?)
 
 ### For Data Scientists
-Others?
+
+### Others?
 
 ## Selection Process
 Once the post is live, collaborators will receive email updates about new candidates, coments or status changes. They are expected to regularly check new candidates, rank them and post comments about them. A slack channel (eg #front-end-hiring) can also be created to make this process easier.
@@ -97,16 +98,16 @@ A first screening can be done at this pont where any of the collaborators can su
 ### Review
 Candidates who pass the first filter can either be marked as “reviewed” or “put on hold”. The choice is basically about priority
 
-If the candidate looks promissing but there’s any more info needed (code samples, certifications, visa status, motivations, etc) then collaborators can send an email through the system requesting it (there are available templates on BambooHR for this) and change the status to “Requested more info.
+If the candidate looks promissing but there’s any more info needed (code samples, certifications, visa status, motivations, etc) then collaborators can send an email through the system requesting it (there are available templates on BambooHR for this) and change the status to “Requested more info".
 
-Once a satisfactory response has been received applicant can be moved to “reviewed” or “put on hold”.
+Once a satisfactory response has been received applicant can be discarded, moved to “reviewed”, or “put on hold”.
 
 ### Phone screen
 Collaborators should regularly check for “reviewed” candidates and schedule a first phone screen (emailing the candidate and changing status to “Scheduled Phone Screen”). This is a short introductory call where we try to solve doubts and get a better sense of the candidate and their fit.
 
 Ideally phone screen should be prerformed by at least two people, one of which should be in a functional role that is similar to the open position. There should be a brief preparation beforehand prioritizing the items to focus on. 
 
-TBD Ideally at least a part of the phone screen should be counducted in English
+[TBD] Ideally at least a part of the phone screen should be counducted in English
 
 We have a template (WIP) with possible questions for these calls. In general they should be open and focus on the competencies, skills and cultural fit of the candidate, but remember this is not an interview, so should also be kept short.
 
@@ -130,9 +131,9 @@ Ideally there should be at least two people in a similar role and with equal or 
 
 We should have a rough script of the questions we want to ask and what we want to assess with them, focusing on competencies and skills. We should also document responses and impressions in a way other people who weren’t there can understand them
 
-Before the interview we should have shared with the candidate our ideas around their level (junior, mid senior and a doc with the competencies and skils (additional to those listed in the job description)
+Before the interview we should have shared with the candidate our ideas around their level (junior, mid, senior...) and a doc with the competencies and skils (additional to those listed in the job description)
 
-TBD Ideally at least a part of the interview should be counducted in English
+[TBD] Ideally at least a part of the interview should be counducted in English
 
 A rough outline of the interview could go like this:
 
@@ -148,7 +149,7 @@ A rough outline of the interview could go like this:
 After the interview the minutes and impressions are posted to the comments section, and candidate is set as “Interviewed” or discarded using consent, in which case candidate should be informed.
 
 ### Final decision
-When there’s one or more sucessful interviewed candidates we have a number of options, all by consent:
+When there’s one or more sucessful interviewed candidates we have a number of options, all decisions to be made by consent:
 
 - Choose one of them and make an offer 
 - Request another interview to untie or clarify (ideally including people who weren’t in the first)
@@ -158,8 +159,8 @@ In principle there’s not a limit to the number of interviews, but we should al
 
 Whatever the case the candidate should be contacted an informed
 
-If there’s a consent to hire a candidate we should send a formal offer. This is legaly binding, so in principle it should be signed by someone in the exec team.
+If there’s a consent to hire a candidate we should send a formal offer. This is legaly binding, so it should be signed by someone in the exec team.
 
 If the candidate accepts the offer a pre-contract is signed and all the remaining candidates are informed.
 
-If there’s a negotiation or the offer is rejected, the selection process continues as normal.
+If there’s a negotiation or the offer is rejected, the selection process continues normally.
