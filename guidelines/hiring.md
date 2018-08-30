@@ -50,7 +50,8 @@ Once the description has been written and reviewed we use BambooHR to publish it
 There’s also the possibility to add required or optional application questions such as CV, cover letter, link to personal website, LinkedIn or GitHub account, available date, etc Custom questions can also be added.
 
 After creting the add, collaborators can be assigned to open positions. Collaborators will have access to all the application data (except for private fields such as desired salary) and ability to score, comment or contact applicants
-Promoting the ad
+
+## Promoting the ad
 
 Open positions are published at https://vizzuality.bamboohr.co.uk/jobs/ and automatically posted to certain free listings such as glassdoor and indeed.
 
