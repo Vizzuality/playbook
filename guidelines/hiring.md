@@ -29,7 +29,7 @@ A job description should generally contain:
 
 - A descriptive text about the role, its importance for us, our projects and our purpose as a company.
 
-- A list of key responsibility areas and daily tasks (Advanced JavaScript programming of innovative interfaces and large client-side applications. Configuration and optimization of client-side libraries and frameworks…), and also additional sporadic or possible responsibilities (assisting in proposals, representing us in talks and conferences…)
+- A list of key responsibility areas and daily tasks (_Advanced JavaScript programming of innovative interfaces and large client-side applications. Configuration and optimization of client-side libraries and frameworks…_), and also additional sporadic or possible responsibilities (_Assisting in proposals, Representing us in talks and conferences…_)
 
 - A list of expected skills and competencies, including the desired level of each (Proficiency, experience, knowledge, familiarity…). These should be also stated as must or nice to have if that’s the case.
 
