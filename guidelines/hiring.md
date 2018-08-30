@@ -6,7 +6,7 @@ A good (or bad) hiring decision affects us all and we believe the process should
 This document outlines the general processes, tools and guidelines we use in a hiring process, and assumes the decision to hire someone has already been taken and the resources allocated. The process for deciding when to open a position is not covered here.
 
 ## Writing a Job Description
-Job descriptions should be based on the evaluation of the role we are looking for, its key responsibility areas and the competencies, and the characteristics we value in all team members, such as:
+Job descriptions should be based on the evaluation of the role we are looking for, its key responsibility areas, the competencies, and the characteristics we value in all team members, such as:
 
 - Aligned to our purpose and vision.
 - Proactive and constructive. 
