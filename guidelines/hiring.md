@@ -3,7 +3,7 @@ Bringing new people to the team is one of the most important processes for us. I
 
 A good (or bad) hiring decision affects us all and we believe the process should be as collective, open and transparent as possible.
 
-This document oultlines the general processes, tools and guidelines we use in a hiring process, and assumes the decision to hire someone has already been taken and the resources allocated. The process for deciding when to hire is not covered here.
+This document oultlines the general processes, tools and guidelines we use in a hiring process, and assumes the decision to hire someone has already been taken and the resources allocated. The process for deciding when to open a position is not covered here.
 ## Writing a Job Description
 Job descriptions should be based on the evaluation of the role we are looking for, its key responsibility areas and the competencies, and the characteristics we value in all team members, such as:
 
