@@ -21,9 +21,7 @@ Specific roles have additional competencies, mostly technical, but they could al
 
 A job description should generally contain:
 
-- A clear and straightforward description of the job opening:
-
-We are looking for a front-end engineer to join our team on a full-time contract in our office in Madrid or Porto.
+- A clear and straightforward description of the job opening: _We are looking for a front-end engineer to join our team on a full-time contract in our office in Madrid or Porto._
 
 - A brief description of Vizzuality that also includes our values, vision and purpose
 
