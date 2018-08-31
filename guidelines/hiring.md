@@ -80,12 +80,11 @@ Additionally there are other resources that can be used:
 [Data-vis-jobs @ Googlegroups](https://groups.google.com/forum/#!forum/data-vis-jobs): Good place for datavis related jobs
 
 ### For developers
-
-Betabeers (spain only, 50 € per announcement)
-Add here
+[Betabeers](https://betabeers.com/post/): Promotes job openings for devs, in Spain only, 50 € per announcement
+Add more here
 
 ### For Designers
-Domestika (free?)
+[Domestika](https://www.domestika.org/en/jobs): Mainly design/UX related jobs in Spain. Free.
 
 ### For Data Scientists
 
