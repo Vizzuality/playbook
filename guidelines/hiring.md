@@ -77,7 +77,7 @@ Depending on the urgency or availability we sometimes use paid services like Lin
 Additionally there are other resources that can be used:
 
 ### Generic
-[https://groups.google.com/forum/#!forum/data-vis-jobs](Data-vis-jobs @ Googlegroups): Good place for datavis related jobs
+[Data-vis-jobs @ Googlegroups](https://groups.google.com/forum/#!forum/data-vis-jobs): Good place for datavis related jobs
 
 ### For developers
 
