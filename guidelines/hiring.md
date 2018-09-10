@@ -70,7 +70,7 @@ After creting the advert, collaborators can be assigned to open positions. Colla
 
 Open positions are published at https://vizzuality.bamboohr.co.uk/jobs/ and automatically posted to certain free listings such as glassdoor and indeed.
 
-When a new position is published you should also talk to @camellia about promoting it in our social networks, and post in #general so other team members can do it in theirs.
+When a new position is published you should also talk to our comms team / lead writer about promoting it in our social networks, and post in #general so other team members can do it in theirs.
 
 Depending on the urgency or availability we sometimes use paid services like LinkedIn recruiter. These have a cost per impressions and should be monitored if set up. Speak to DG if you think the process needs it
 
