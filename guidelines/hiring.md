@@ -118,7 +118,7 @@ Apart from other specific issues (such as availability, english language, etc) w
 Brief minutes of the call should be documented in the “comments” section. Candidate will then be moved to "Phone screened" or discarded and informed accordingly.
 
 ### Challenge
-Some times we may request a skill challenge to the candidates. ---> link to code challenges ([TBD] create challenges for other roles?)
+Some times we may request a skill challenge to the candidates. Challenges are normally requested to candidates whose provided portafolio isn't enough to determine their skills. Specific roles may have pre-created Challenges (e.g. Front end coding chalenge ---> link to code challenges [TBD] create challenges for other roles?)
 
 We should explain clearly what we expect from the challenge, how much effort we think the candidate should put on it, the general rules and what we will be trying to learn from it. After sending the challenge candidate should be moved to "Requested Challenge"
 
