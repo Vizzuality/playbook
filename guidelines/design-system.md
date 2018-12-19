@@ -29,7 +29,7 @@ https://www.dropbox.com/s/nm1f3ykle33utcd/Wireframe_base.sketch?dl=0
 This is an internal tool to help designers build in a more efficient way different wireframes
 1. Copy the sketch file
 2. Rename it following the file naming guideline in “Folder and file architecture”
-3. Design in the ‘Wireframe’ page helped by the created symbols and templates
+3. Design in the ‘Wireframe’ page helped by the created symbols and templates (for further information about how to use symbols, consult [Symbols in the Sketch documentation](https://sketchapp.com/docs/symbols/))
 
 
 # UI Kit Template.
@@ -37,9 +37,11 @@ There is a UI Kit template we’ve created and that should be used for the rest 
 
 **Resource Watch UI Kit library sketch:**
 https://www.dropbox.com/s/k9xno3h9gbft8sr/RW_UIKit.sketch?dl=0
+(for further information about how to use libraries, consult [Libraries in the Sketch documentation](https://sketchapp.com/docs/libraries/))
 
 **Prototype Demo:**
 https://invis.io/TVPDD7BZYKS#/240485596_UI_Kit
+(for further information about how to send your designs into InVision, consult ['Introduction to Craft Sync'](https://support.invisionapp.com/hc/en-us/articles/210310026-Introduction-to-the-Craft-Sync-plugin))
 
 ## How to use it?
 - We should upload the UI Kit on InVision with the rest of the design screens, preferable to have all the groups and name of the assets under control.
