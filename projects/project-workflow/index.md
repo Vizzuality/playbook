@@ -28,5 +28,5 @@ Dev(s) & Designer: Development starts on the pages that are already designed. De
 Dev(s) & Designer & PM & Tech Lead & Data Scientist: Meet/share staging site for review and feedback.
 
 ## Ahead of Releases
-Dev(s) & Researcher: Discuss analytics implementation (account setup, any custom events to track?)
-PM, Dev(s) & Camellia: Discuss interesting points from the project that could be put in a blog. 
+Dev(s) & Researcher: Discuss analytics implementation (account setup, any custom events to track?), [read how to add analytics here](adding-google-analytics.md).
+PM, Dev(s) & Camellia: Discuss interesting points from the project that could be put in a blog.
