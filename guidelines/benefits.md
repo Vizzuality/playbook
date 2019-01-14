@@ -58,7 +58,7 @@ We are using [bamboo](https://vizzuality.bamboohr.co.uk/) to view all the benefi
 
 ### Portugal
 
-We've chosen a Health insurance that includes Health Insurance + Dental coverage. Our insurance provider is (Médis)[https://www.medis.pt/], they have an extensive network of service providers and include multiple services. For details on the insurance please talk with SB.
+We've chosen a Health insurance that includes Health Insurance + Dental coverage. Our insurance provider is [Médis](https://www.medis.pt/), they have an extensive network of service providers and include multiple services. For details on the insurance please talk with SB.
 
 The way the insurace works for Vizzuality's employees is:
 
