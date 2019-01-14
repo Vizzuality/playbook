@@ -54,3 +54,22 @@ Extra family members: 38.36 €/month
 *these prices are valid as long as our plan includes more than 12 people
 
 We are using [bamboo](https://vizzuality.bamboohr.co.uk/) to view all the benefits available so if you check the "Benefits" tab you should already see what plans you are eligible for. Please take a look and make sure it's correct according to your hire date.
+
+
+### Portugal
+
+We've chosen a Health insurance that includes Health Insurance + Dental coverage. Our insurance provider is (Médis)[https://www.medis.pt/], they have an extensive network of service providers and include multiple services. For details on the insurance please talk with SB.
+
+The way the insurace works for Vizzuality's employees is:
+
+- Vizzuality will pay for a part or all of the coverage depending on how long you have been in the company;
+- Employee pays for the rest via a deduction in your payslip;
+- Employee can opt in at any time, and as time passes will be eligible for lower contribution;
+- Employee can add family members (Spouse and children) at a fixed cost per person.
+
+In the following table you can see the cost for you depending on how many years you have been at Vizzuality:
+
+- 1st year: 27.75 €/month
+- 2nd year: 18.5 €/month
+- 3rd year: 9.25 €/month
+- \>3 years: Free for employee
