@@ -6,7 +6,6 @@ This guideline covers the steps you should take should you need a cloud resource
 
 Most of our projects require some sort of hosting to run on, be it a server to run code on, some hosting-as-a-service like Heroku, and S3 bucket to store files etc. More complex projects may need certain services, like Carto, Google Earth Engine, Transifex, etc.
 
-
 ### Resources owned by the client
 
 While there are multiple ways in which these resources can be provisioned, the recommended way is to talk with the client and have them own these resources themselves. This carries a series of advantages both to us and the client:
@@ -21,9 +20,13 @@ While there are multiple ways in which these resources can be provisioned, the r
 We should be clear and transparent when communicating the need for these resources with the client, as these costs can appear as unexpected to some clients, and their internal budget for the project may be restricted:
 - We should discuss with the client why this resource is needed.
 - We should, when possible, present alternative solutions to the problem, and provide a recommendation based on our expertise, as to why a given solution is superior to the others.
-- We should provide an estimated cost of the service, clarifying that it will be charged by a 3rd party, over which we have no control.
+- We should provide an estimated cost of the service, identifying what are predictable costs (ie: VPS costs are fairly easy to predict and vary very little) and what is harder to predict (ie: network traffic cost is often hard to predict). Clarify that it will be charged by a 3rd party, over which we have no control. Useful links:
+  - [AWS calculator](https://calculator.s3.amazonaws.com/index.html)
+  - [GCP calculator](https://cloud.google.com/products/calculator)
+  - Google: "<name of the tool or service> pricing"
 - We should be upfront about the cost of these resources.
 - We should clarify if the cost is temporary (ie: staging servers) or "permanent" (ie: production servers).
+- Whenever we make a change that modifies these costs, we should tell the client beforehand.
 
 
 Given that setting up these resources can be a quite technical process, we can help the client with the practical steps, by:

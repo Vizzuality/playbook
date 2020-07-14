@@ -8,6 +8,7 @@ This section covers security around online services:
 - Enable 2FA for all services for which you have an individual account - your email account, Github, AWS, LastPass, etc
 - For non personal services auto-generate 15+ character ascii passwords and store in LastPass. Passwords can and will be modified regularly
 - Share passwords in folders, not directly with people, then invite people to folders
+- If the service supports different levels of permissions (ie: GCP/AWS IAM), follow the [Principle of least privilege](https://en.wikipedia.org/wiki/Principle_of_least_privilege) when setting up accounts for your peers or even your own - it's a good policy to only use the admin/root account to create a lesser privileged account for your own daily usasge, instead of always using an account with too many privileges.
 
 LastPass allows you to quickly and easily generate passwords that match the criteria above. It can also warn you in case
  it detects you are sharing the same password across multiple services, which you can use to quickly audit your current
