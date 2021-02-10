@@ -1,8 +1,9 @@
 # **Purpose.** 
 
-### **Vizzuality's purpose is to reach a fair and sustainable planet by creating tools that radically empower people to make positive changes now.**
+### _Our purpose is the creation of a better future for our planet and society._
+### _We aim to reach a fair and sustainable planet by creating tools that radically empower people to make positive changes now._
 
-This vision was accepted by consent in a whole-company workshop in May 2018. 
+This vision was accepted by consent in a whole-company workshop in May 2018 and updated to include a short opening statement in Dec 2020. 
 
 # Vision Statements
 
