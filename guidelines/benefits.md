@@ -52,6 +52,10 @@ Extra family members: 38.36 €/month
 
 *these prices are valid as long as our plan includes more than 12 people
 
+Parents in Spain currently also receive one extra month of paternity leave, paid by the company. The motivation for this policy is the belief that men and women should be treated equally and have the same rights. We think that current laws in Spain, that give 5 weeks of  leave to men and 16 to women act as a negative factor to women, as they are less likely to be hired because of the law. This is why we consider this more of a policy than a benefit.
+
+For this reason, we currently do not implement the same policy in different countries with different laws and treat each independently, with the aim of correcting as much as we can the possible gender biases created by law.
+
 We are using [bamboo](https://vizzuality.bamboohr.co.uk/) to view all the benefits available so if you check the "Benefits" tab you should already see what plans you are eligible for. Please take a look and make sure it's correct according to your hire date.
 
 
