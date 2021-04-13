@@ -10,7 +10,7 @@
 - [x] [Getting Started at Vizzuality](how-to-get-started-at-vizzuality.md)
 - [x] [Hiring](hiring.md)
 - [x] [How to handle cloud resources](how-to-handle-cloud-resources.md)
-- [x] [Improper Behaviour & Antiharassment Guideline](Improper-Behaviour-and-Antiharassment-Guideline.md)
+- [x] [Improper Behaviour & Antiharassment Guideline](improper-behaviour-and-antiharassment-guideline.md)
 - [x] [Professional Guidance](professional-guidance.md)
 - [x] [Remote work](remote-work.md)
 - [x] [Home Working  Self Assessment](home-working-self-assessment.md)
