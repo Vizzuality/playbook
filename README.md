@@ -33,12 +33,25 @@ Guideline creation and amendment is done through **consent process** (to-do: add
 - Keep things as simple as possible, only write new guidelines when they are needed.
 - Write in clear, specific and actionable terms. Guidelines are decision helpers, not judgments or theoretical statements.
 
-### How to share suggested changes with others?
+### How to share a proposal with others?
 
-Since we're using GitHub as a guideline repository, the natural way of suggesting changes is via the mechanism of [Pull Requests](https://help.github.com/articles/using-pull-requests)
+To suggest a proposal three elements are key:
+- Make sure that everyone is aware of the proposal. To achieve this you can use Blogin or [Pull Requests](https://help.github.com/articles/using-pull-requests)
+- Make clear the timeline to provide questions and principled objections. The amount of time provided will be decided by the person leading the proposal. The amount of time will depend on how large are the changes suggested.
+- Make clear the system to consent or object. This could be using the thumbs up and down. 
 
-#### How to start a pull request
+#### How to communicate the Guideline discussion to others?
 
+- Start your communication (PR or Blogin post) with a short and meaningful title (e.g. "Guideline for hiring process").
+- Briefly explain the motivation for the guideline creation/amendment and the context and background.
+- Add the created / amended text of the guideline.
+- Announce the new guideline creation / amendment process on #announcements channel in Slack.
+- Announce the outcome on #announcements channel in Slack.
+
+#### When using Blogin to propose a guideline
+Create a blogpost with all the information and select the category `Guideline Proposal` under `VizzLife`. Publish the blogpost. An admin will pin the post for the duration of the consent process. 
+#### When using GitHub to propose a guideline
+##### Start a Pull Request
 The starting point is to have your content saved in a branch of the repository (please do not commit directly into master, unless maybe you see a typo). There are a few ways technically to do that, broadly speaking:
 - you can clone the repo to your machine, create a branch, make changes and push like you'd do with code
 - you can use GitHub's interface
@@ -47,18 +60,8 @@ When using the GitHub interface, first create a new branch by using the "Branch"
 
 There is also a shortcut if you only want to edit / create a single file. Start making your changes while on a branch that you want to use as your base. To save the changes on a new branch and start the pull request, in the "Commit changes" section select "Create a new branch for this commit and start a pull request".
 
-#### How to communicate the Guideline discussion to others?
 
-- Start your PR with a short and meaningful title (e.g. "Guideline for hiring process").
-- Briefly explain the motivation for the guideline creation/amendment and the context and background.
-- The created / amended text of the guideline should also be added to the PR text for easier reading.
-- Add as assignees the people who are leading this guideline creation, including yourself.
-- Add as reviewers the people who should be involved by giving advice, or who are directly affected. Remember that anyone can participate.
-- Announce the new guideline creation / amendment process on #general channel in Slack.
-- Allow up to 3 days for comments.
-- Announce the outcome on #general channel in Slack.
-
-### When participating in a Guideline discussion process:
+##### Participating in a Guideline discussion process in Github
 
 - Please follow the Consent process. In that process a decision does not require everybody to agree, it only requires that nobody raises a meaningful objection.
 - Use the reactions :+1: "Agree", :confused: "Disagree", :-1: "Object" and explain clearly afterward your reasons.
