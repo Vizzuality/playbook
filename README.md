@@ -1,5 +1,5 @@
 ## Welcome to Vizzuality's Guidelines
-
+This is where you can access the content of this repository as a web page: https://vizzuality.github.io/playbook/
 ### What is a guideline?
 
 A guideline is a written statement that helps make autonomous decisions.
@@ -50,6 +50,15 @@ To suggest a proposal three elements are key:
 
 #### When using Blogin to propose a guideline
 Create a blogpost with all the information and select the category `Guideline Proposal` under `VizzLife`. Publish the blogpost. An admin will pin the post for the duration of the consent process. 
+##### Participating in a Guideline discussion process in Github
+
+- Please follow the Consent process. In that process a decision does not require everybody to agree, it only requires that nobody raises a meaningful objection.
+- Use the reactions at the top of the post :+1: "Agree",  :-1: "Object" and explain clearly afterward your reasons in the comment section.
+- Use the comment section to ask for further clarification
+
+##### Transferring the guideline from Blogin to Github
+Use a Pull Request to include the approved guideline in the playbook. If you have issues following the instructions below, ask for support in #all-hands.
+
 #### When using GitHub to propose a guideline
 ##### Start a Pull Request
 The starting point is to have your content saved in a branch of the repository (please do not commit directly into master, unless maybe you see a typo). There are a few ways technically to do that, broadly speaking:
