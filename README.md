@@ -53,7 +53,7 @@ To suggest a proposal three elements are key:
 
 #### When using Blogin to propose a guideline
 
-Create a blogpost with all the information and select the category `Guideline Proposal` under `VizzLife`. Publish the blogpost. An admin will pin the post for the duration of the consent process.
+Create a blogpost (you can use [this template](https://vizzuality.blogin.co/pages/blogin-guideline-proposal-template-10497)) with all the information and select the category `Guideline Proposal` under `VizzLife`. Publish the blogpost. An admin will pin the post for the duration of the consent process.
 
 ##### Participating in a Guideline discussion process in Github
 
